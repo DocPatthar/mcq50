@@ -1,0 +1,3386 @@
+# The main types of clinical diagnostic laboratories (KLD) of health care institutions include all, except:
+-general type
+- centralized
+-specialized
++ semi-centralized
+# The organizational structure of the laboratory service of the Republic of Uzbekistan includes everything
+except:
+-clinical diagnostic laboratories of healthcare institutions
+-Republican Center for Clinical Laboratory Diagnostics
++department of biochemistry of universities
+- departments of clinical laboratory diagnostics of universities
+#The main tasks of the clinical diagnostic laboratory are all except:
+-organization of high-quality and timely execution of clinical laboratory tests
+-introduction of new technologies and methods of laboratory research
+- carrying out measures for labor protection, sanitary and epidemiological regime
++ implementation of paid medical services
+#The main duties of the head of the KLD, except for:
+- ensuring timely and high-quality laboratory research
+-determining the functional responsibilities of employees
++ hiring and dismissal of KLD employees *
+- organization of advanced training of laboratory personnel
+#Main responsibilities of a medical doctor, except for:
+- conducting laboratory tests
++ selection of personnel for KLD
+- interpreting the results of laboratory tests
+- implementation of advisory work on issues of clinical laboratory diagnostics
+#Analytical results may be affected by factors other than:
+-physical and emotional state
+-circadian rhythms
+- body position
++social status of the patient
+# In the accompanying form for the sample entering the laboratory, everything must be indicated, except:
+-Name of the patient
+- list of indicators
+-name of the attending physician
++ research method
+#Venous blood should be taken from the patient:
+-after eating
++ on an empty stomach
+- after physiotherapy
+-after taking medication
+#Study not requiring 12-hour fasting:
+- determination of cholesterol
+-study of total protein
++ complete blood count
+-determination of glucose
+#To control the correctness of studies, it is recommended to use:
+- aqueous solution of substrates
++ reference serum
+- donated blood
+- distilled water
+#When conducting quality control, all criteria are used, except:
+- reproducibility
+-correctness
++ cost
+-accuracy
+#Intralaboratory quality control covers all stages of laboratory research, except for:
+- preanalytical
+-analytical
++ non-analytical
+- post-analytical
+#Coefficient of variation is used to evaluate:
++Reproducibility
+- sensitivity
+-correctness
+-specificity
+#To achieve the quality of laboratory test results, you must have:
+-qualified staff
+- modern means of dosing
+-automated analysis systems
++ expensive reagents
+#Control card is:
+-list of standard values
+- the order of manipulations during the analysis
+-scheme for calculating results
++ graphic representation of the measured values
+#The main meaning of control charts is:
++ in identifying acceptable analytical errors
+- in assessing the correctness of the method
+- in assessing the reproducibility of the method
+- in assessing the sensitivity of the method
+#Control serum with an unknown content of the substance allows:
+- identify non-systematic errors
++ identify random errors
+- identify systematic errors
+- check the correctness of the results
+#Out-of-lab errors are related to:
+- with inaccurate preparation of reagents
+- with poor quality devices
+-using an imprecise method
++ with improper preparation of the patient
+#The function of the reference laboratory is:
+- in statistical processing of results
+-in the production of control materials
+- in performing routine tests
++ in certification of control materials by reference methods
+#External quality control is:
+- metrological control
+- control of the use of research methods by different laboratories
+- a system of measures designed to evaluate the method
++ a system for objective evaluation of the results of laboratory tests of different laboratories
+#External quality control makes it possible to:
++ compare the quality of work of several laboratories
+- evaluate the sensitivity of the methods used
+- standardize research methods and conditions
+-certify control materials
+#The way to detect analytical errors is:
++ continuous quality control
+-choice of analytical method
+- sequential registration of analyzes
+- communication between the laboratory and the attending physician
+#What does pH reflect?
++ concentration of free hydrogen ions
+-concentration of hydroxyl groups
+- the ratio of the concentration of H + to the concentration of hydroxyl groups
+- hydrogen ion voltage
+#Which of the listed CBS buffers is the main intracellular one?
+- bicarbonate
+-acetate
+-protein
++ hemoglobin
+#What is the pH value of bicarbonate buffer?
+- 7.3
+- 7.4
++ 6.1
+- 5.9
+- 7.8
+#What enzyme is involved in the dissociation of carbonic acid in the renal tubules?
+-LDG
+-asat
+-AlAT
+-lipases
+- carbonic anhydrase
+#Optimal anticoagulant when determiningThe definition of KBS indicators is:
+-oxalate
+-citrate
++ lithium salt of heparin
+-heparin-Na
+-EDTA
+#Respiratory acidosis can develop:
+- prolonged fasting
+- with pyelonephritis
++ with respiratory distress syndrome*
+- with hepatitis
+- with hyperventilation of the lungs
+#The cause of metabolic alkalosis can be:
+- retention of carbon dioxide
+- retention of organic acids
++ loss of potassium ions
+- hyperventilation of the lungs
+- hypoventilation of the lungs
+#Respiratory alkalosis develops:
++ with hyperventilation
+- profuse vomiting
+- tumor of the esophagus
+- infusion of alkaline solutions
+- with hypoventilation of the lungs
+#A patient with respiratory failure should be placed on mechanical ventilation with a PaO2 less than:
+-90 mmHg Art.
++60 mmHg Art.
+-70 mmHg Art.
+-80 mmHg Art.
+-100 mmHg Art.
+#Reference values for plasma bicarbonate are:
+-18 26 mmol/l
+-21 27 mmol/l
+-35 45 mmol/l
+-25 30 mmol/l
+-31 37 mmol/l
+#The reference values of arterial blood pH are:
+-7.50 7.60 units
+- 7.35 7.60 units
++ 7.35 7.45 units
+- 7.25 7.45 units
+- 7.25 7.35 units
+#Life-threatening is an increase in the concentration of bicarbonate ions in plasma:
+-> 35 mmol/l
+->38 mmol/l
+->27 mmol/l
++>40 mmol/l
+->29 mmol/l
+#Under titratable acidity is meant:
+- amount of ammonium excreted in the urine
++ the amount of monosubstituted phosphates excreted in the urine
+- the amount of free hydrogen ions excreted in the urine
+- the level of free hydrogen ions in the blood
+#Reference values of pCO2 in arterial blood are:
+-25-35 mmHg
++35-45 mm Hg
+- 45-55 mm Hg
+- 55-65 mm Hg
+- 65-85 mm Hg
+#Life-threatening are pCO2 values higher than:
+-40 mmHg
+-45 mmHg
++60 mmHg
+-55 mmHg
+-50 mmHg
+#The plasma bicarbonate concentration below is life-threatening:
+-20 mmol/l
+-15 mmol/l
++10 mmol/l
+-25 mmol/l
+-30 mmol/l
+#Life-threatening blood lactate values are:
++ above 6 mmol/l
+- above 5 mmol/l
+- above 4 mmol/l
+- above 3 mmol/l
+- above 2.5 mmol/l
+#What does the indicator D (A-a) 2 reflect?
+- volume of blood shunted in the lungs
++ alveolus - arterial oxygen difference
+- partial pressure of oxygen in mixed venous blood
+-partial pressure of oxygen in arterial blood
+#What does the indicator D (a-v) O2 reflect?
+- volume of blood shunted in the lungs
+- alveolus - arterial oxygen difference
++ arteriovenous difference in O2
+-partial pressure of oxygen in arterial blood
+#As a result of the study of the parameters of the KOS, the following data were obtained: pH = 7.22 units;
+2= 61 mm Hg; bicarbonate= 23 mmol/l; BE \u003d -1.2 mmol / l. Determine the type of acid-base imbalan
+ce:
+- decompensated metabolic acidosis
++ decompensated respiratory acidosis
+- respiratory alkalosis and metabolic acidosis
+metabolic alkalosis and respiratory acidosis
+#As a result of the study of the parameters of the KOS, the following data were obtained: pH=7.1 units; 2=
+66 mm Hg; bicarbonate=13 mmol/l; BE = -13 mmol / l. Determine the type of acid-base imbalance:
+- decompensated metabolic acidosis
+- decompensated respiratory acidosis
++ respiratory acidosis and metabolic acidosis
+metabolic alkalosis and respiratory acidosis
+#As a result of the study of the parameters of the CBS, the following data were obtained: pH=7.55 units; 2
+=55 mm Hg; bicarbonate=38 mmol/l; BE=+ 15 mmol/l. Determine the type of acid-base imbalance:
++ subcompensated metabolic alkalosis
+- decompensated respiratory alkalosis
+- respiratory alkalosis and metabolic acidosis
+metabolic alkalosis and respiratory acidosis
+#As a result of the study of the parameters of the KOS, the following data were obtained: pH=7.41 units; 2
+=50 mm Hg; bicarbonate=30 mmol/l; BE=+7 mmol/l. Determine the type of acid-base imbalance:
++ metabolic alkalosis compensated
+- compensated respiratory acidosis
+- decompensated metabolic acidosis
+- decompensated respiratory acidosis
+#As a result of the study of the parameters of the KOS, the following data were obtained: pH = 7.36 units;
+2= 29 mm Hg; bicarbonate = 16 mmol/l; BE = -8 mmol / l. Determine the type of acid-base imbalance:
++ metabolic acidosis compensated
+- compensated respiratory acidosis
+- decompensated metabolic acidosis
+- decompensated respiratory acidosis
+#As a result of the study of the parameters of the KOS, the following data were obtained: pH=7.49 units; 2
+=42 mm Hg; bicarbonate=30 mmol/l; BE=+7 mmol/l. Determine the type of acid-base imbalance:
+-metabolic alkalosis compensated
+- respiratory alkalosis compensated
+- decompensated respiratory alkalosis
++ decompensated metabolic alkalosis
+#As a result of the study of the parameters of the KOS, the following data were obtained: pH=7.30 units; 2
+=53 mm Hg; bicarbonate=35 mmol/l; BE=+6 mmol/l. Determine the type of acid-base imbalance:
+- metabolic acidosis subcompensated
++ subcompensated respiratory acidosis
+- decompensated metabolic acidosis
+- decompensated respiratory acidosis
+#As a result of the study of the parameters of the CBS, the followinge data: pH=7.54 units; 2=36 mm Hg;
+bicarbonate=35 mmol/l; BE= +10 mmol/l. Determine the type of acid-base imbalance:
+-metabolic alkalosis compensated
++ decompensated metabolic alkalosis
+- respiratory alkalosis compensated
+- decompensated respiratory acidosis
+#As a result of the study of the parameters of the KOS, the following data were obtained: pH=7.16 units; 2
+=60 mm Hg; bicarbonate=23 mmol/l; BE \u003d -3 mmol / l. Determine the type of acid-base imbalance:
++ decompensated respiratory acidosis
+-compensated respiratory acidosis
+-compensated metabolic alkalosis
+- subcompensated metabolic acidosis
+#As a result of the study of the parameters of the KOS, the following data were obtained: pH=7.48 units; 2
+=25 mm Hg; bicarbonate=20 mmol/l; BE \u003d -4 mmol / l. Determine the type of acid-base imbalance:
+- metabolic acidosis subcompensated
++ subcompensated respiratory alkalosis
+- decompensated metabolic acidosis
+- decompensated respiratory alkalosis
+#Plasma glucose reference values are:
+-3.3-5.5 mmol/l
++ 4.0-6.1 mmol/l
+-5.6-7.8 mmol/l
+- 5.6-6.7 mmol/l
+- 7.8-10.0 mmol/l
+#Whole blood glucose reference values are:
++3.3-5.5 mmol/l
+-3.9-6.4 mmol/l
+- 5.6-7.8 mmol/l
+- 5.6-6.7 mmol/l
+-7.8-10.0 mmol/l
+#If diabetes is suspected, it is necessary to determine:
++ glycemic level
+-glucose in urine
+-glycated hemoglobin
+-cholesterol
+-triglycerides
+#The term "fructosamine" refers to:
+-combination of fructose with proteins
+-mucopolysaccharides
++glycated albumin
+-glycolipids
+#Name the reference method for studying the level of glycemia:
++ Hexokinase
+- orthotoluidine
+-Method of converting copper according to Benedict
+-glucose oxidase
+-glucose dehydrogenase
+#What is "postcranial glycemia"?
+-blood glucose level 1 hour after eating
+-blood glucose level 6 hours after eating
+-blood glucose level 3 hours after eating
++ blood glucose level 2 hours after eating
+#Renal threshold for glucose is:
+-6.0-7.0 mmol/l
+-7.0-8.0 mmol/l
++ 8.8-10.0 mmol/l
+-11.0-12.0 mmol/l
+-12.0-13.0 mmol/l
+#Diagnostic criterion for diabetes mellitus is fasting plasma glucose:
+->6.7 mmol/l
+->5.6 mmol/l
++>7.0 mmol/l
+->5.5 mmol/l
+->8.7 mmol/l
+#Diagnostic criterion for diabetes is fasting whole blood glucose:
++>6.1 mmol/l
+->5.6 mmol/l
+->7.8 mmol/l
+->5.5 mmol/l
+->8.7 mmol/l
+#Diagnostic criteria for diabetes mellitus 2 hours after plasma glucose loading are the following values:
+->6.4 mmol/l
+->6.7 mmol/l
+->7.0 mmol/l
+->10.0 mmol/l
++>11.1 mmol/l
+#Diagnostic criteria for diabetes mellitus 2 hours after glucose loading in whole venous blood are the follo
+wing values:
+->6.4 mmol/l
+->6.1 mmol/l
+->7.8 mmol/l
++>10.0 mmol/l
+->11.1 mmol/l
+#Diagnostic criteria for diabetes mellitus 2 hours after glucose loading in whole capillary blood are the foll
+owing values:
+->6.4 mmol/l
+->6.7 mmol/l
+->7.8 mmol/l
+->10.0 mmol/l
++>11.1 mmol/l
+#Glycated hemoglobin is:
+-complex of glucose with COHb
++ complex of glucose with HbA
+-glucose complex with HbF
+- connection of fructose with HbA
+#What is the diagnostic value of HbA1c determination in blood?
+- diagnosis of diabetic nephropathy
++ assessment of the degree of compensation for diabetes mellitus
+- diagnosis of diabetic ketoacidosis
+-diagnosis of macroangiopathies
+- diagnosis of diabetic retinopathy
+#One of the main laboratory criteria for developed diabetic nephropathy is:
++ proteinuria > 0.5 g/day
+-proteinuria > 1.0 g/day
+-proteinuria > 3.0 g/day
+-proteinuria > 2.0 g/day
+#Microalbuminuria is:
+- excretion of albumin in the urine in the amount of 500-600 mg / day
+- excretion of albumin in the urine in the amount of 600-800 mg / day
+- excretion of albumin in the urine in the amount of 300-500 mg / day
++ excretion of albumin in the urine in the amount of 30-300 mg / day
+#Early complications of diabetes include:
+- diabetic neuropathy
+- diabetic nephropathy
++ diabetic ketoacidosis
+-diabetic retinopathy
+#The criterion for the compensated course of type 1 diabetes mellitus is the following level of HbA1c:
+-8.0-9.0%
++ 6.0-7.0%
+-7.1-7.5%
+- 8.0-8.5%
+#The criterion for the compensated course of type 1 diabetes mellitus is the following level of fasting glyce
+mia:
++5.0-6.0 mmol/l
+- 6.1-6.5 mmol/l
+-6.5-6.9 mmol/l
+-7.0-7.5 mmol/l
+#With what frequency is it necessary to determine the concentration of HbA1c in patients with type I diabe
+tes mellitus?
+-1 time per month
+-1 time per year
+-1 time in six months
++1 every 3 months
+#With what frequency is it necessary to determine the concentration of HbA1c in patients with type II diab
+etes mellitus?
+-1 time per month
+-1 time per year
+-1 time in six months
++1 every 3 months
+#The frequency of urine tests to detect microalbuminuria in patients with type I diabetes mellitus is:
++1 time per year, after 5 years from the onset of the disease
+-2 times a year, after 5 years from the onset of the disease
+-2 times a year, after 3 years from the onset of the disease
+-1 time per year, after 3 years from the onset of the disease
+#Recommendedserum total cholesterol level is:
+-<6.5 mmol/l
+-<6.2 mmol/l
+-<7.0 mmol/l
++<5.2 mmol/l
+#Under steatorrhea is understood:
+-formation of stones in the gallbladder
+-fatty liver
++excess lipids in feces
+-increased levels of lipoproteins in the blood
+#When studying lipid profile indicators, the following condition must be observed:
++ fasting blood sampling
+-storage of samples only in the form of heparinized plasma
+- degreasing and dehydration of dishes
+- switching to a cholesterol-free diet 2-3 days before blood sampling
+#The cause of hypocholesterolemia can be:
+- nephrotic syndrome
+- glomerulonephritis
+-heavy physical activity
+- deficiency of insulin
+#To determine the type of hyperlipoproteinemia, it is enough to examine in serum:
+-level of ?-cholesterol
+- total cholesterol level
++major classes of lipoproteins
+- LDL level
+#Hypertriglyceridemia can develop:
+- with pancreatitis
++diabetes
+- with hepatitis
+- with thyrotoxicosis
+#Antiatherogenic effect have:
+-triglycerides
+-cholesterol
+-pre-?-lipoproteins
+-?-lipoproteins
++?-lipoproteins
+#The place of formation in the body of VLDL are:
+-muscle
+- adipose tissue
++ hepatocytes
+-lungs
+#The place of formation in the body of LDL is:
+-kidneys
+- adipose tissue
++blood plasma
+-connective tissue
+#Apo-A-protein is part of:
+-HM
+-VLDL
+-LPPP
+-LDL
++HDL
+#Apo-B-Protein is found in all of the following except:
+-VLDL
+-LPPP
+-LDL
++HDL
+#A 43-year-old patient, clear plasma, total cholesterol - 5.2 mmol/l, ?-cholesterol - 0.94 mmol/l. The state
+of lipid metabolism can be regarded as:
++Norm
+-hyperlipidemia
+- hypocholesterolemia
+- atherogenic spectrum
+#Boy 13 years old, obese, chylous plasma, hypertriglyceridemia. Hyperlipoproteinemia may be suspected
+:
++I type
+-II type
+-III type
+-IV type
+-V type
+#A 49-year-old patient was admitted to the clinic with complaints of frequent attacks of angina pectoris. S
+eizures were treated with nitroglycerin. The laboratory study should include measurement in blood serum
+of:
++cholesterol, triglycerides, ?-cholesterol
+-cholesterol, total lipids
+-cholesterol, total lipids, phospholipids
+-cholesterol, ketone bodies, non-esterified fatty acids
+#The concentration of total cholesterol in the blood is 5.0 mmol/l, ?-cholesterol - 1.83 mmol/l, triglycerides
+- 1.25 mmol/l, atherogenic index 1.56. The likelihood of developing coronary artery disease:
+-very high
+-high
+-moderate
++ insignificant
+#The reference level of total plasma protein is:
+-25-45 g/l
+-45-65 g/l
++65-85 g/l
+-82-95 g/l
+#Life-threatening is a decrease in the level of total protein in the blood below:
++40 g/l
+-60 g/l
+-55 g/l
+-50 g/l
+#The reference plasma albumin level is:
+-15-25 g/l
++35-50 g/l
+-30-40 g/l
+-60-80 g/l
+#Life-threatening hypoalbuminemia is:
+- decrease in albumin level below 50 g/l
+- decrease in albumin level below 45 g/l
++ decrease in albumin level below 20 g/l
+decrease in albumin level below 30 g/l
+#Proteinuria is:
+- excretion of protein in the urine more than 20 mg / day
++ excretion of protein in the urine more than 150 mg / day
+- excretion of protein in the urine more than 50 mg / day
+- excretion of protein in the urine more than 30 mg / day
+#Dysproteinemia is:
+-increased concentration of total protein
+-decrease in total protein concentration
+-decreased fibrinogen levels
++ violation of the ratio of plasma protein fractions
+#The level of ?-globulins in the blood is lowered:
+- with coronary artery disease
+- with gastritis
++ with radiation sickness
+- tumor of the esophagus
+#Bence-Jones protein can be determined using:
+- agglutination reactions
+- urine dialysis
++urine protein electrophoresis
+- concentration of urine
+#What pathological condition is accompanied by a decrease in the level of fibrinogen in the blood?
+- myocardial infarction
++ chronic liver disease
+-rheumatoid arthritis
+-uremia
+#The reference level of fibrinogen in plasma is:
++2-4 g/l
+-4-6 g/l
+-6-8 g/l
+-8-10 g/l
+#Plasma fibrinogen levels increase:
++ in acute staphylococcal infections
+- with diabetes
+- with chronic hepatitis
+- with acute pancreatitis
+#Paraproteins are not found in the blood:
+- Waldenstrom’s macroglobulinemia
+- with multiple myeloma
++ with pneumonia
+#for light chain disease
+-Transferrin is:
+- connection of globulin with magnesium
++ connection of globulin with iron
+-connection of globulin with sodium
+- connection of globulin with cobalt
+# Leads to hyperproteinemia:
++increased synthesis of paraproteins
+-hyperhydration
+-decreased absorption of proteins in the intestine
+-increased permeability of vascular membranes
+#The main physiological role of haptoglobin is:
++ in hemoglobin binding
+-participation in the reactions of the acute phase of inflammation
+-involved in immune responses
+-involved in blood clotting
+#Increase in the concentration of which of the following acute phase proteins is most pronounced in bacte
+rial inflammation?
+-haptoglobin
+-ceruloplasmin
++SRP
+-transferrin
+-fibrinogen
+#Maximum activity of most enzymes is shown at the following pH values:
+-1.5-2.0 units
+-8.0-9.0 units
++ close to neutral
+-only at pH=7.0 units.
+#For diagnostic purposes, enzyme activity is most often determined by:
++ in blood serum
+-in leukokoncentrates
+- in biopsy specimens
+- in liquor
+#The highest ALT activity is found:
+-in the lungs
++ in the liver
+- in skeletal muscle
+-in the kidneys
+#The highest activity of creatine kinase is characteristic of:
++ for myocardium
+-for the prostate
+- for the spleen
+-for the kidneys
+#An increase in serum ?-glutamyl transpeptidase activity is predominantly observed:
+- with prostatitis
+- with gastritis
+- with pancreatitis
++ with cholestasis
+#Myocardial damage is accompanied by an increase in blood activity:
+-lipases
+-AlAT
+-?-glutamyl transpeptidases
+-?-amylases
++creatine kinase
+#LDH molecule consists of subunits like:
+-B and M
++H and M
+-B, M and H
+-B and H
+#How many isozymes does LDH have?
+-2
+-3
++5
+-10
+#The myocardium contains the isoenzyme in the greatest amount:
++LDG-1
+-LDG-2
+-LDG-3
+-LDG-4
+-LDG-5
+#Activity of acid phosphatase predominantly increases:
++ with prostatitis
+- with gastritis
+- with bronchitis
+- with meningitis
+#In a patient with an acute attack of abdominal pain, an increase in serum amylase activity is determined.
+The most likely diagnosis is:
++ acute pancreatitis
+- acute viral hepatitis
+-renal colic
+- myocardial infarction
+#A patient with an acute attack of chest pain has an increase in serum creatine kinase activity. The most li
+kely diagnosis is:
+- acute pancreatitis
+- acute viral hepatitis
+-renal colic
++ myocardial infarction
+# With increased bone resorption, serum activity mainly increases:
+-alkaline phosphatase
+-aminotransferases
+-catalase
+-acid phosphatase
+#The greatest diagnostic value in lesions of the pancreas is the determination of serum activity:
+-cholinesterase
++?-amylases
+-creatine phosphokinase
+-LDG
+-?-glutamyl transpeptidases
+#Early markers of myocardial infarction include the following enzyme:
+-LDG-5
+-cholinesterase
+-?-amylase
++creatine kinase
+-alkaline phosphatase
+#In prostate cancer, serum activity mainly increases:
+-?-amylases
+-creatine kinase
+-alkaline phosphatase
++ acid phosphatase
+#Suspicious of toxic liver damage, it is advisable to determine the activity in serum:
+-cholinesterase
+-LDG
+-creatine phosphokinase
++?-glutamyl transpeptidases
+#Markers of cholestasis include:
+-aminotransferases
+-LDH and creatine kinase
+-histidase, urocaninase
++?- glutamyl transpeptidase, alkaline phosphatase
+#In pancreatitis, serum activity mainly increases:
+-urocaninases
+-acid phosphatase
+-?-glutamyl transpeptidases
+-alkaline phosphatase
++?-amylases
+#When diagnosing chronic hepatitis, it is advisable to study the serum activity of:
++AlAT, AsAT, ?-glutamyl transpeptidase, alkaline phosphatase
+-LDH, creatine kinase
+-acid phosphatase, urokinase
+-alkaline phosphatase isoenzymes
+#The De Ritis coefficient is:
+-AlAT / AsAT
+-alkaline phosphatase/lipase
+-?-glutamyl transpeptidase/ALT
++AsAT / AlAT
+#The activity of acid phosphatase is increased in the blood serum:
++ with prostate tumor
+- with pancreatitis
+-during pregnancy
+- with metastatic bone disease
+#The content of isoenzymes LDH-1 and LDH-2 is the highest:
++ in the heart
+- in skeletal muscle
+-in the liver
+-in tumor cells
+-in the pancreas
+#Specific for myocardial infarction is an increase in serum creatine kinase isoenzyme:
+-MM-KK
++MV-KK
+-BB-KK
+-SS-KK
+#Increased activity of bone isoenzyme alkaline phosphatase is characteristic of:
+-for liver cirrhosis
+-for primary and secondary neoplasms of the liver
+- for intrahepatic cholestasis
++ for Paget’s disease
+#Plasma osmolality is normally:
+-140 180 mlosm/kg
++275 295 mlosm/kg
+-350 385 mlosm/kg
+-550 600 mlosm/kg
+#The osmolal gap of plasma is increased:
++ in case of poisoning with ethyl alcohol
+- in case of hydrocyanic acid poisoning
+- lead poisoning
+- mercury poisoning
+#The normal osmolal gap is:
++ up to 10 mlosm/kg
+- up to 20 mlosm/kg
+- up to 30 mlosm/kg
+- up to 40 mlosm/kg
+#The reference serum sodium level is:
+-120-130 mmol/l
+-130-147 mmol/l
++135-145 mmol/l
+-145-155 mmol/l
+#Life-threatening is hyponatremia:
+-<145 mmol/l
+-<130 mmol/l
++<125 mmol/l
+-<120 mmol/l
+#Life-threatening is hypernatremia:
+->150 mmol/l
+->148 mmol/l
++>155 mmol/l
+->160 mmol/l
+#The level of sodium in the blood regulates:
++ Aldosterone
+-insulin
+-adrenalin
+-calcitonin
+#The cause of hypernatremia is:
++ Kohn’s syndrome
+- Addison’s disease
+-hypovitaminosis D
+- adenoma of the parathyroid glands
+#The reference serum potassium level is:
+-2.5-3.5 mmol/l
+-3.0-4.2 mmol/l
++3.5-5.2 mmol/l
+-5.0-6.5 mmol/l
+#Life-threatening is hypokalemia:
+-<3.0 mmol/l
+-<2.9 mmol/l
+-<2.7 mmol/l
++<2.5 mmol/l
+#Life-threatening is hyperkalemia:
+->3.5 mmol/l
+->5.5 mmol/l
++>7.5 mmol/l
+->6.5 mmol/l
+#Hypokalemia can develop:
++ with vomiting
+- in acute and chronic renal failure
+- with sepsis
+- with the syndrome of prolonged compression
+#The reference level of total serum calcium is:
++2.12-2.6 mmol/l
+-3.5-5.5 mmol/l
+-3.1-3.6 mmol/l
+-3.3-5.5 mmol/l
+#The reference level of ionized calcium in serum is:
+-2.12-2.60 mmol/l
+-3.57-4.59 mmol/l
+-4.15-4.6 5mmol/l
+-3.33-5.55 mmol/l
++0.98-1.3 mmol/l
+#The concentration of ionized calcium in plasma is influenced by:
++ pH value
+- plasma triglyceride level
+- plasma potassium level
+- plasma sodium level
+#The cause of hypercalcemia can be:
+-hypovitaminosis D
+-rickets
++ adenoma of the parathyroid glands
+- administration of cardiac glycosides
+#The reference level of serum phosphorus in adults is:
+-0.55-1.5 mmol/l
++0.97-1.45 mmol/l
+-1.45-2.45 mmol/l
+-2.33-2.78 mmol/l
+#The main ion that determines the transfer of water through cell membranes:
+-calcium
+-potassium
++ sodium
+-hydrogen
+-chlorine
+#Manifestations of hypomagnesemia are:
++ depression
+- violations of acid-base balance
+-hypothyroidism
+-formation of kidney stones
+#The reference serum magnesium level is:
+-0.5-1.5 mmol/l
++0.8-1.0 mmol/l
+-1.4-2.4 mmol/l
+-2.3-2.7 mmol/l
+#Hyperchloremia occurs:
++ with hypoventilation
+- with diabetic ketoacidosis
+- with lactic acidosis
+- with edema
+#Hypermagnesemia observed:
+- with malabsorption syndrome
+- with chronic alcoholism
+-Hypofunction of the parathyroid glands
++ with primary hypofunction of the adrenal cortex
+#Removal of magnesium in the urine decreases:
+- with alcoholism
+- when fasting
+-Hypofunction of the parathyroid glands
+- with hyperfunction of the thyroid gland
++ with magnesium deficiency in the body
+#Prolongation of venous blood coagulation time is characteristic of:
+- for thrombocytopenia
+-for hemorrhagic vasculitis
++ for hemophilia
+-for Glanzman’s disease
+-for Rendu-Osler disease
+#What indicators characterize the anticoagulant activity of the blood?
+-fibrinogen A
+-fibrinogen B
+-prothrombin
++antithrombin III
+- spontaneous fibrinolysis
+#Hemophilia is characterized by:
+- prolongation of prothrombotic time
++ prolongation of APTT
+-decrease in fibrinogen concentration
+-decreased platelet count
+- violation of platelet aggregation
+#Agdesia and platelet aggregation does not contribute to:
+-ADP
+- thrombin
+-adrenalin
+-thromboxane A2
++glucose
+#Which of the listed plasma factors of blood coagulation processes is not preserved during plasma storag
+e?
+-fibrinogen (I)
+-prothrombin (II)
++ antihemophilic globulin A (VIII)
+-antihemophilic globulin C (XI)
+-proconvertin (VII)
+#K-vitamin-dependent factors are not:
+-prothrombin
+-proconvertin
+-protein C
+-protein S
++ fibrinogen
+#Coagulopathy of consumption is not accompanied by consumption of:
+-factor I
+-factor V
+- platelets
++calcium ions
+-factor VIII
+#Definition of protein C is used:
++ to detect the risk of thrombosis
+- to control heparin therapy
+- to select the dose of indirect anticoagulants
+- to assess fibrinolysis
+- to assess primary hemostasis
+#The deficiency of which plasma factors is evidenced by a reduced prothrombin index?
++ prothrombin and proconvertin
+- procacelerin
+-fibrinases
+-tissue troboplate
+-calcium ions
+#At what pathology does complete blood incoagulability occur?
+- with thrombocytopenia
+- with hemorrhagic vasculitis
++ with afibrinogenemia
+- with fibrinase deficiency
+- with hypoprothrombinemia
+#Deficiency of X? plasma factor occurs:
++ in hemophilia C
+- with hemophilia A
+- with hemophilia B
+- with inhibitory hemophilia
+- Rendu-Osler disease
+#Deficiency of V??? plasma factor occurs:
++ in hemophilia A
+- with hemophilia C
+- with hemophilia B
+- with inhibitory hemophilia
+- Rendu-Osler disease
+#Plasma factor IX deficiency occurs:
++ in hemophilia B
+- with hemophilia A
+- with hemophilia C
+- with thrombocytopenia
+- with hemorrhagic vasculitis
+#The main pathological link of hemorrhagic disease of newborns is:
+-fibrinogen deficiency
++ deficiency of K-vitamin-dependent factors
+- thrombocytopenia
+- transient thrombasthenia
+- von Willebrand factor deficiency
+#The most probable timing of the onset of hemorrhagic disease of the newborn:
+-1-2 days
++2-4 days
+-6-8 days
+-8-10 days
+-30 days
+#For DIC syndrome is not typical:
+- thrombocytopenia
+- hypofibronogenemia
+- increase PDF, RKMF
++thrombocytosis*
+-increased D-dimers
+#What is characteristic of hemophilia?
++ prolongation of APTT
+-decreased prothrombin index
+- violation of platelet aggregation
+-prolongation of capillary bleeding time
+-decreased retraction of the blood clot
+#Which laboratory test is not used to monitor treatment with direct-acting anticoagulants:
+- prothrombin time
++ thrombin time
+- venous blood clotting time
+- autocoagulation test
+-APTT
+#Which laboratory test does not reflect the state of the plasma system of blood coagulation:
+- amount of fibrinogen
+-kaolin-kephalin time
+Whole blood clotting time according to Lee-White
+- prothrombin time
++platelet aggregation
+#The blood clotting time according to Lee-White is extended:
+- with thrombocytopenia
+- with thrombosthenia
+- with hemorrhagic vasculitis
++ with hemophilia
+- Rendu-Osler disease
+#The time of capillary bleeding according to Ducoupri is extended with:
+- thrombocytopenia and thrombasthenia
++ hemophilia A
+- hemophilia B
+- hemophilia C
+- inhibitory hemophilia
+#For the diagnosis of DIC, the definition is not used:
+-level of D-dimers
+-contents of antithrombin III
+- number of PDFs
+-platelet count
++ ESR
+#Decreasethe level of factors of the blood coagulation system is observed:
+- with kidney disease
++ with liver diseases
+- with lung diseases
+- in diseases of the joints
+- with diseases of the pancreas
+#What test characterizes the 1st phase of the blood coagulation process?
+-platelet count
+- duration of capillary bleeding according to Duke
+- amount of fibrinogen
++ venous blood coagulation time according to Lee-White*
+-prothrombin index
+#What test characterizes vascular-platelet hemostasis?
+plasma tolerance to heparin
+-platelet count
+- amount of fibrinogen
+- thrombin time
+-prothrombin index
+#Prolongation of capillary bleeding time according to Duke, Ivey is observed:
+- with hemophilia
++ with thrombocytopenia, thrombosthenia
+- with hypofibrinogenemia
+- with dysfibrinogenemia
+- with hypoproconvertinemia
+No. Thrombocytopenia is characterized by:
++ Decrease in blood clot retraction
+-an increase in the number of red blood cells
+-leukocytosis
+-polyglobulia
+- von Willebrand factor deficiency
+#Deficiency of what plasma factor indicates the formation of an unstable fibrin clot?
+-VIII-th
+-VII-th
++XIII
+-IX-th
+-X-th
+#Which test is not used to diagnose DIC?
+- venous blood coagulation time according to Lee-White
+- amount of fibrinogen
+-APTT
++ determination of the level of ?-globulins
+-platelet count
+#Which test is not used to monitor treatment with direct-acting anticoagulants:
+- prothrombin time
++ thrombin time
+-APTT
+- venous blood coagulation time according to Lee-White
+-fibrinogen concentration
+-platelet count
+#The laboratory test for monitoring treatment with indirect anticoagulants is:
+- venous blood clotting time
+- thrombin time
+-fibrinogen
++ prothrombin time and INR
+-fibrinogen B
+# Venous blood clotting time according to Lee-White is lengthened:
+- with thrombocytopenia
+- with thrombasthenia
+- with hemorrhagic vasculitis
++ with hemophilia
+- Rendu-Osler disease
+#What does sample hemolysis indicate?
+- about the breakdown of plasma proteins
++ about the destruction of red blood cells
+-decreased platelet count
+- an increase in leukocytes
+- a decrease in fibrinogen
+#What indicator indicates intravascular hemolysis?
+-amount of albumin
+-platelet count
++ free hemoglobin level
+- number of leukocytes
+-amount of conjugated (bound) bilirubin
+#Kon’s syndrome is characterized by all of the following except:
+- hyperaldosteronism
+-hypernatremia
+-hyperchloremia
+-hypokalemia
++hyperphosphatasemia
+#What hormones are produced in the neurohypophysis?
+-ACTH
+-melanotropin
+-gonadotropins
+-catecholamines
++antidiuretic hormone (ADH)*
+#What hormones are derivatives of tyrosine?
+-pituitary gland
+-pancreas
++ catecholamines, thyroid hormones
+- hypothalamus
+- gonads
+#What hormones are steroids?
+-thyroxine
+-somatotropin
+-adrenalin
++ testosterone, estrogen
+-melanotropin
+#Hyperparathyroidism is characterized by all of the following except:
+-increased parathyroid hormone
+-increased calcium levels
+-decrease in the concentration of phosphorus
++ increased thyroxine
+-increased activity of alkaline phosphatase
+#What substance is the end product of catecholamine metabolism?
+-17-OKS 2) 17-KS
++ vanillylmandelic acid (VMA), homovanillic acid (HVA)
+-pyruvic acid
+-lactic acid
+#Which hormone is a glucocorticoid?
+-adrenalin
++ cortisol
+-insulin
+-thyroxine
+-norepinephrine
+#What hormones are synthesized in the reticular zone of the adrenal cortex?
+- cortisol, cortisone
+-adrenaline, norepinephrine
+-deoxycorticosterone
+-aldosterone
++ androcorticoids, estrocorticoids
+#Target organs of parathyroid hormone are:
+-pancreas
+- heart, blood vessels
++ bones and kidneys
+-adrenals
+- liver, spleen
+# In chronic adrenal insufficiency (Addison’s disease) there is insufficiency of:
+-catecholamines
+-gonadotropins
++ mineralocorticoids, glucocorticoids
+-androcorticoids
+- estrocorticoids
+#-Pheochromocytoma is characterized by:
+-hypoglycemia
+-ketonemia
++hypercatecholaminemia
+-azotemia
+-ketonuria
+#Acromegaly is characterized by an increase in:
+-glucagon
+-thyroxine
++ somatotropin (GH)
+-insulin
+-adrenaline
+#Excretion of catecholamines in the urine does not increase:
+- with pheochromocytoma
+- with bronchial asthma
+- with hyperthermia
+- with myocardial infarction
++ with hypodynamia
+#Reduced urinary excretion of 17-ketosteroids is observed:
++ with Addison’s disease
+- with adrenogenital syndrome
+- hyperplasia of the adrenal cortex
+- tumors of the adrenal cortex
+- with Itsenko-Cushing’s disease
+#The concentration of histamine in plasma (serum) will not increase:
+- with bronchial asthma
+- when overheating
+- Quincke’s edema
++ with iron deficiency anemia
+- with allergic rhinosinusitis
+# An increase in blood serotonin is observed in all conditions except:
+- tumor metastases to the liver
++ thrombocytopenia
+- pheochromocytoma
+-malignant neoplasms of the prostate
+#Liberins and statins are formed:
+-in the pituitary gland
++in the hypothalamus
+-in the gonads
+-in the adrenal glands
+- in the lymph nodes
+#Glucocorticoids include the following hormones:
++ cortisol, cortisone
+-ACTH
+-glucogon, insulin
+-kortikoliberin
+-antidiuretic hormone
+#What hormones are produced in the outer layer of the adrenal cortex?
+-adenocorticotropic hormone
+-androcorticoids
+-glucocorticoids
++mineralocorticoids
+- antidiuretic hormone (ADH)
+#Gluconeogenesis activates the following hormone:
+-adrenalin
++ cortisol
+-thyroxine
+-insulin
+All of the following are protein hormones except:
+-somatropin (STP)
++ aldosterone
+-adrenocorticotropic hormone (ACTH)
+-thyroxine
+All of the following hormones are synthesized in the pancreas except:
++ Adrenaline
+-glucagon
+-insulin
+-somatostatin
+-pancreatic polypeptide
+#Which hormone belongs to mineralocorticoids?
+-cortisol
+-antidiuretic hormone
+-norepinephrine
+-dopamine
++ aldosterone
+#What hormones are produced in the outer glomerular zone of the adrenal cortex?
+-glucocorticoids
++mineralocorticoids
+-thyroxine
+-catecholamines
+#The ovaries produce all hormones except:
++Aldosterone
+-estradiol
+-estriol
+- progesterone
+#Accompanied by increased levels of cortisol in the blood?
+-myxedema
++ Itsenko-Cushing’s disease and syndrome
+-pituitary dwarfism
+- Addison’s disease
+- pituitary cachexia
+#Water reabsorption in the renal tubules is ensured by:
+-cortisol
+-thyroxine
+-adrenalin
++ vasopressin
+#Hypothyroidism is characterized by:
+- lowering cholesterol
+-decrease in uric acid
+-hyperglycemia
++ hypercholesterolemia
+# Increase in urine of catecholamines and their metabolites is typical:
+-for Itsenko-Cushing’s disease
++ for pheochromocytoma
+- for thyrotoxicosis
+-for diabetes
+-for Addison’s disease
+#At what pathology is there an increased level of insulin in the blood?
+- with Addison’s disease
++ with insulinoma
+- with acromegaly
+- with diabetes
+#At what disease does the level of antidiuretic hormone decrease?
+- with diabetes
+- with Addison’s disease
+- with thyrotoxicosis
++ for diabetes insipidus
+- with hypothyroidism
+# An increase in the level of somatotropic hormone is observed:
+- with pituitary dwarfism
+- with adrenal insufficiency
+- with gigantism
++ in chronic hepatitis
+- with myxedema
+#What hormones are produced in the male gonads?
+-aldosterone
++ androgens
+-deoxycorticosterone
+-estrogens
+- follicle stimulating hormone
+#Catecholamines include all of the following except:
+- norepinephrine
++serotonin
+-adrenaline
+-dopamine
+#The pituitary gland synthesizes all hormones except:
+-thyrotropic
+- follicle-stimulating
+- luteinizing
+-vasopressin
+- lactogenic
+#Insulin is synthesized:
+- pancreatic acinar cells
++?-cells of the islets of Langerhans
+-?-cells of the islets of Langerhans
+-?-cells
+#Hypoglycemia is characterized by:
+-for pheochromocytoma
+- for thyrotoxicosis
+-for Itsenko-Cushing’s disease
+-for insulinoma*
+#Which hormone lowers blood glucose levels?
+-adrenalin
+-glucagon
++insulin
+-testosterone
+#What hormone is produced in the hypothalamus?
+-somatotropic
+-adrenocorticotropic
++ antidiuretic
+-gonadotropins
+#In what disease is there no increase in urinary excretion of catecholamines?
+- with pheochromocytoma
+- with bronchial asthma
++ for hypothyroidism
+- with myocardial infarction
+- under stress conditions
+# In chronic lymphocytic leukemia, more often than in other leukemias, there is:
+- aplastic anemia
++ autoimmune hemolytic anemia
+-Iron-deficiency anemia
+-pernicious anemia
+#To determine the number of reticulocytes, the staining method is recommended:
+- on stained glass in a damp chamber
+-in vitro
+- after fixing with methyl alcohol
++ in a test tube and on stained glass in a humid chamber
+#For acute lymphoblastic leukemia, the most typical cytochemical definition is:
+-myeloperoxidase
+- non-specific esterase
+-lipids
++ glycogen
+#To detect the granular-mesh substance of reticulocytes, the following is used:
+-azur 1
++ brilliant-cresyl blue
+-azure 2
+-methylene blue
+#Bone marrow megakaryocytes should be counted:
++ in the Fuchs-Rosenthal chamber
+-in Goryaev’s cell
+in a peripheral blood smear
+- in blood cell counters
+#The number of siderocytes in the peripheral blood and sideroblasts in the bone marrow does not increas
+e:
+- lead poisoning
+- while taking anti-tuberculosis drugs
++ for multiple myeloma
+- with thalassemia
+#Erythroblasts in bone marrow punctate average:
+-5 10%
+-10 20%
++25 30%
+-30 40%
+# With microspherocytosis, the Price-Jones curve:
+- shifts to the right
++ shifts to the left
+- several peaks appear
+-does not change
+#The bulk of reticulocytes in the peripheral blood of a healthy person are:
+- corolla-shaped
+-ball-like
+- full mesh
++ dusty
+#Thrombocytopenia with hemorrhagic syndrome often accompanies:
+- chronic myelogenous leukemia
++ acute leukemia
+- lymphogranulomatosis
+-chronic monocytic leukemia
+#Do not use for fixing blood smears:
+-methyl alcohol
++ ethyl alcohol 70%
+-ethyl alcohol 96%
+-May-Grunwald fixer-dye
+#The most accurate method for determining the content of hemoglobin in the blood is:
+-Saly method
++ hemiglobincyanide method
+- method with 0.5% ammonia solution for oxyhemoglobin
+- gasometric method (by saturation of blood with gas)
+#When xpononic monocytic leukemia in the blood picture is not typical:
+-leucopenia
+-leukocyte shift to myeloblasts
++ absolute monocytosis
+-basophilic-eosinophilic complex
+#By "relative neutrophilia" is meant:
++ increase in the percentage of neutrophils with their normal absolute number
+- an increase in the percentage and absolute content of neutrophils
+-decrease in the percentage of neutrophils
+- an increase in their absolute number
+#The RDW hematology analyzer value reflects the change in:
++ erythrocytes by volume (anisocytosis)
+-radius of erythrocytes
+-saturation of red blood cells with hemoglobin
+- the number of leukocytes in the blood
+#A high percentage of plasma cells in the bone marrow is observed:
++ for multiple myeloma
+- with Waldenstrom’s disease
+- with collagenoses
+- with infectious mononucleosis
+#Normal leuko-erythroblastic index is:
+-1:1
+- 1:2
++3:1
+- 10:1
+#Platelets are formed:
+-in the spleen
++in the bone marrow
+-in the liver
+- in the lymph nodes
+#Absolute increase in the number of basophils in peripheral blood is observed:
+- with acute leukemia
+- in allergic conditions
++ in chronic myeloproliferative diseases
+- treated with glucocorticoids
+#Absolute neutrophilia is characterized by:
+- for treatment with cytostatics
+- for aplastic anemia
++ for sepsis
+- for secondary immunodeficiencies
+#Relative lymphocytosis observed:
+-when taking corticosteroids
++ with toxoplasmosis
+- with collagenoses
+- with secondary immunodeficiencies
+#Absolute monocytosis is characterized by:
+-for bacterial infections
+- for toxoplasmosis
+-for collagenoses
++ for monocytic leukemia
+# An increase in hemoglobin in the blood is observed:
+- with megaloblastic anemia
+- with hemoglobinopathies
++ in primary and secondary erythrocytosis
+- with hyperhydration
+#For the variant of refractory anemia in myelodysplastic syndrome are not typical:
++Anisochromia
+- normo- or hyperchromia
+- poikilocytosis
+-hypercellular bone marrow
+#Determination of the aleukemic phase of acute leukemia is carried out:
+- by puncture of the lymph node
+- Peripheral blood smear
++ by trepanobiopsy of the ilium
+- according to cytochemical study
+#For acute myeloid leukemia, the most typical cytochemical reaction is:
+-for glycogen
+-alkaline phosphatase
++ for myeloperoxidase
+-for nonspecific esterase
+#For acute monoblastic leukemia, the most typical cytochemical definition is:
+-glycogen
+-alkaline phosphatase
+-myeloperoxidase
++ nonspecific esterase
+#In chronic myeloid leukemia, everything is observed, except:
+1) increase in the number of lymphocytes and plasmablasts *
+2) shift of leukocytes to the left to myelocytes
+3) increase in myeloblasts
+4) basophilic-eosinophilic complex
+#For leukogram exacerbation of chronic myeloid leukemia is not typical:
++ decrease in the number of blast elements
+- increase in the number of blast elements
+-decrease in mature granulocytes
+- decrease in the number of platelets
+#Acute erythromyelosis is characterized by:
++ normo- or hyperchromic anemia, thrombocytopenia, leukopenia and erythroblastosis
+- normal number of red blood cells, platelets and neutrophils
+-anemia, thrombocytopenia, leukocytosis
+- moderate anemia, reticulocytosis, leukopenia with lymphocytosis
+#Anything can be the cause of neutrophil hypersigmentation, except:
+-vitamin B12 deficiency
+- folic acid deficiency
++ iron deficiency
+- hereditary deficiency of transcobalamin II
+#Philadelphia chromosome is characterized by:
+-for chronic lymphocytic leukemia
++ for chronic myeloid leukemia
+-for erythremia
+-for infectious mononucleosis
+#In the period of complete remission of acute leukemia in the myelogram, the percentage of blast cells is
+not more than:
+-1%
++5%
+-10%
+-20%
+#In acute promyelocytic leukemia, the most typical cytochemical definition is:
++Myeloperoxidase
+-acid sulfated mucopolysaccharides
+- non-specific esterase
+-lipids
+#In what form of myeloma can sternal puncture be uninformative:
++ Solitary
+-diffuse
+-diffuse-focal
+-is always a reliable analysis
+#Hemogram in acute leukemia is characterized by:
++Blastosis
+-erythrocytosis
+- thrombocytosis
+- neutrophilia
+#Separation of hemoglobin into fractions can be done using:
++Electrophoresis
+- hydrolysis
+-proteolysis
+- salting out
+#In acute leukemia is not observed:
++Thrombocytosis
+- neutropenia
+-leukocytosis
+- thrombocytopenia
+#Cell counting in hematology analyzers is based on the principle:
+-cytochemical
+- light scattering of the laser beam
++ conductometric meter
+-actions of cell lysates
+#Manifestation of ineffective erythropoiesis is all but:
++Reticulocytosis
+- reciculocytopenia
+-destruction of erythrocyte precursors in the bone marrow
+- bone marrow hemolysis
+#Hyperplasia of the megakaryocytic germ of hematopoiesis is observed:
++ with erythremia
+- with chronic lymphocytic leukemia
+- with infectious mononucleosis
+- with Waldenstrom’s disease
+#In Cesari’s syndrome, the chromatin of the nuclei of lymphocytes has the following structure:
+- wheel-shaped
+- lumpy
++ cerebriform
+-does not have characteristic core changes
+#Blast cells are characterized by a nuclear-cytoplasmic ratio:
+-Vbenefit of the cytoplasm
++ in favor of the core
+-doesn’t matter
+- ratio can be any
+#Mean erythrocyte volume increased:
+- with iron deficiency anemia
+- with thalassemia
+- with myelodysplastic syndrome
++ with B12-deficiency anemia
+#The protein part of hemoglobin is represented by:
+-albumin
+-ceruloplasmin
++ globin
+-haptoglobin
+# An increase in the number of reticulocytes is observed:
++ with hemolytic anemia
+- with hypoplastic anemia
+- with aplastic anemia
+- with cancer metastases to the bone tissue
+#The main type of hemoglobin in an adult is:
+-HbP
++Hb A
+-HbF
+-HbD
+#The main type of fetal hemoglobin is:
+-HbP
+-Hb A
++Hb F
+-HbD
+#Iron deficiency anemia is characterized by:
+-MCV - v, MCH - v, MCHC - N
+-MCV - ^, MCH - ^, MCHC - N
+-MCV-N, MCH-N, MCHC-N
++MCV v, MCH v, MCHC v
+#Megaloblastic anemia is characterized by:
+-MCV - v, MCH - v, MCHC - N
++MCV ^, MCH ^, MCHC ^
+-MCV-N, MCH-N, MCHC-N
+-MCV - v, MCH - v, MCHC - v
+#Anemia in chronic renal failure is characterized by:
+-MCV - v, MCH - v, MCHC - N
+-MCV - ^, MCH - ^, MCHC - N
++MCV-N, MCH-N, MCHC-N
+-MCV - v, MCH - v, MCHC - v
+#Acute leukemia cells are not typical for:
+-increased proliferation
++ metaplasia
+-impaired ability to differentiate
+- disruption of apoptosis
+#Morphological substrate of acute leukemia are:
+- mature lymphocytes
+-mature and maturing myeloid cells
++ blast cells
+-cells with morphological signs of dysplasia
+#Leukemic failure in acute leukemia is:
+-relative lymphocytosis due to neutropenia in peripheral blood
+-absence of blast cells in the peripheral blood or 1-2% of them
+-the presence of dozens of blast cells in the peripheral blood
++ the presence of blast and mature cells and the absence of transitional or single transitional cells
+-presence of 5 10% blast cells
+#Minimum Residual Disease is:
+- good health, satisfactory condition of the patient, in peripheral blood hemoglobin 110g/l and more
+-absence of blast cells in peripheral blood
+- no more than 5% of blast cells in the bone marrow
++ the presence of tumor growth cells detected by cytogenetic and molecular genetic methods against the
+background of clinical and hematological remission
+#A typical blast cell has three main properties except:
+-basophilia of the cytoplasm (blue color)
+-the presence in the nucleus of clearly defined, bluish nucleoli (nucleolus)
++ the presence of fine azurophilic granularity in the cytoplasm
+-delicate structure of nuclear chromatin
+#The specific cytochemical reaction for acute monoblastic leukemia is:
+- response to myeloperoxidase
+- response to glycogen
++reaction to nonspecific esterase
+- response to lipids
+#A specific cytochemical reaction for acute lymphoblastic leukemia is:
+- response to myeloperoxidase
++granular reaction to glycogen
+-diffuse response to glycogen
+-reaction to nonspecific esterase
+#The main characteristics of tumor cells in chronic myeloid leukemia do not include:
+- increased proliferative activity
++increased ability to apoptosis
+- genomic instability
+-reduced adhesion to stromal cells
+#The stages of chronic myeloid leukemia do not include:
+- chronic
+-acceleration
++ leukemic failure
+-terminal
+#The picture of the bone marrow in chronic myeloid leukemia is characterized by:
+-total blast transformation
++ hyperplasia of cells of the granulocytic germ
+- panmyelosis
+- irritation of the red germ of hematopoiesis
+#Chronic myeloid leukemia is characterized by:
+-increased levels of tumor necrosis factor TNF-L
++ detection of Ph - chromosome and oncogene - ABL/BCR
+- the presence of a point mutation in the specific tyrosine kinase JAK2
+-presence of Berezovsky-Sternberg cells
+#For polycythemia vera is not typical:
+-splenomegaly
+- pancytosis
+- panmyelosis
++acceleration of erythrocyte sedimentation
+#Primary myelofibrosis is characterized by:
+- predominant proliferation of megakaryocytes and increased formation of platelets
+-proliferation of all sprouts of myelopoiesis, but most of all erythroid
+- ineffective myelopoiesis
+- proliferation of all sprouts of myelopoiesis, but mainly granulo- and megakaryocytic sprouts
+#Signs of ineffective erythropoiesis in MDS are all except:
++ increase in the number of erythrocytes in peripheral blood
+-shortening the life of erythrocytes
+- the appearance of ring-shaped sideroblasts
+-presence of erythrocytes with basophilic puncture
+#For RAKS variant of myelodysplastic syndrome is characteristic:
+-the presence of 5 to 20 blast cells in the bone marrow
+-presence of Auer sticks
++ the presence of ring-shaped sideroblasts
+-presence of monocytes more than 1?109/l
+#For the leukocyte formula in chronic lymphocytic leukemia, it is typical:
+-leukemic failure no transitional cell forms, only blast and mature cells
+-leukopenia due to neutropenia, relative lymphocytosis
++ leukocytosis, absolute lymphocytosis, predominance of mature lymphocytes, Gumprecht shadows
+- leukocytosis, neutrophilia, shift of the leukocyte formula to the left to myelocytes, promyelocytes, eosino
+philic-basophilic associationand I
+#Morphological characteristics of cells in chronic lymphocytic leukemia correspond to the description:
+- cells are large and medium in size, the nuclear-cytoplasmic ratio is high (more than 1), nucleoli are clearl
+y visible in the nucleus, the chromatin is delicately reticulate, the cytoplasm is narrowly rimmed, with varyi
+ng degrees of basophilia, does not contain granules
++ small cells, high nuclear-cytoplasmic ratio, dense chromatin nucleus, narrow cytoplasmic zone*
+-cells are large, the nuclear-cytoplasmic ratio is low, the shape of the nucleus is irregular, the chromatin st
+ructure is smoothed, young, the cytoplasm is wide with a basophilic border
+- large cells, low nuclear-cytoplasmic ratio, irregularly shaped nucleus, loose chromatin structure, light gra
+y cytoplasm with small inclusions in the form of sand
+#Berezovsky-Sternberg-Reed cells are characterized by:
+- for hairy cell leukemia
+- for Cesari’s syndrome
++ for Hodgkin’s lymphoma
+- for T-cell leukemia from large granular lymphocytes
+#Berezovsky-Sternberg-Reed cells do not include:
+- mononuclear cells 40-45 microns in diameter, the nucleus has an uneven edge, contains irregularly sha
+ped nucleoli, the cytoplasm is gray-blue, finely vacuolated with a slightly fiston edge
+-cells 40-50 ?m in diameter, have 2 nuclei mirroring each other, each has a nucleolus, the cytoplasm is gr
+ay-blue homogeneous, may be finely vacuolized with a slightly fiston edge
++ cells are characterized by polymorphism of nuclei, the nuclear-cytoplasmic ratio is low, the nucleus is lo
+cated in the middle
+trally, in the cytoplasm, an abundance of granules and / or Auer rods (granules collected in tubules, rods)
+- multinucleated cell (more than 2 nuclei) 40-50 microns in diameter, nuclei of different diameters are laye
+red on top of each other, the nucleus contains nucleoli of different sizes, blue-gray cytoplasm
+#The bone marrow picture in multiple myeloma is characterized by the presence of:
+-agranulocytosis
+-total blast hyperplasia
++specific proliferation of plasma cells
+- lymphocytosis (30% or more), Gumprecht’s shadows
+#For iron deficiency anemia is not typical:
+-decrease in the level of hemoglobin and erythrocytes in the blood
+- a sharp decrease in the average concentration of hemoglobin in the erythrocyte
+-increased total iron-binding capacity of blood serum
++ increase in the average volume of erythrocytes
+#Hypochromic anemia does not include:
++ anemia associated with folic acid deficiency
+-thalassemia
+- iron deficiency anemia
+- anemia associated with impaired synthesis of porphyrins
+#Iron deficiency anemia is characterized by:
+-normal amount of hemoglobin
+-increased amount of serum iron
++ decreased serum ferritin
+-increased number of siderocytes in peripheral blood
+#Annular sideroblasts are characteristic of:
+- iron deficiency anemia
+-thalassemia
+- sickle cell anemia
++ iron-rich anemia
+#For sideroblastic anemia is not typical:
++ absence of siderocytes in peripheral blood
+-increased serum ferritin levels
+-increased siderocytes in peripheral blood
+-presence of ring-shaped sideroblasts in the bone marrow
+#To assess the state of iron stores in the body, the following studies are used, except:
+- determination of the number of siderocytes in peripheral blood
+- determination of the level of ferritin in the blood serum
++ determination of total iron-binding capacity
+-desferal test
+#To assess the state of the iron transport fund in the body, do not use:
++ desferal test
+-determination of total iron-binding capacity
+-determination of latent iron-binding ability
+-determination of serum iron
+#Decrease in erythron’s iron pool reflects everything except:
+-decrease in the number of sideroblasts in the bone marrow
++ the presence of sideropenic syndrome
+- hypochromia, microcytosis, poikilocytosis of erythrocytes in blood smears
+- decrease in the average concentration of hemoglobin in the erythrocyte
+#In the development of sideroblastic anemia, a characteristic disorder is a violation of the activity of:
+-glucose-6-phosphate dehydrogenase
+-glutathione reductase
++ delta-aminolevulinic acid
+-pyruvate kinase
+#Megaloblastic anemia refers to all of the following anemias except:
+- hyperchromic
+- macrocytic
++ hyper-regenerative
+-megalocytic
+#For B12-deficiency anemia is not typical:
+-leucopenia
+- thrombocytopenia
++reticulocytosis
+- hypersegmentation of neutrophils
+#Megaloblasts are characterized by:
+-small cells, the nuclear-cytoplasmic ratio is high, in favor of the nucleus, the nucleus with dense chromati
+n, the cytoplasm with a narrow rim
++ large cells with a relatively young nucleus located eccentrically, the structure of chromatin is delicate, cl
+umps of chromatin in the form of small grains, the cytoplasm is wide, rich in hemoglobin*
+- large cells, low nuclear-cytoplasmic ratio, irregularly shaped nuclei, loose chromatin structure, light gray
+cytoplasm with inclusions in the form of sand
+-polymorphism of cells and nuclei, nuclear-cytoplasmic ratio is low, the nucleus is located centrally, in the
+cytoplasm there is an abundance of granules, Auer rods. Due to the abundance of granules, the boundari
+es of cells and nuclei are fuzzy.
+#For intracojudiciary hemolysis is not typical:
+- hemoglobinuria
+- hemosiderinuri
++ decrease in osmotic resistance of erythrocytes
+-high levels of free hemoglobin in the blood
+#For intracellular hemolysis is not typical:
+-decrease in osmotic resistance of erythrocytes
+-morphological changes in erythrocytes in peripheral blood
++hemoglobinuria
+-enlargement of the spleen, up to splenomegaly
+# Hereditary hemolytic anemias associated with disruption of the erythrocyte membrane do not include:
+-Minkowski-Choffard disease
+- hereditary ovalocytosis
++thalassemia
+- hereditary stomatocytosis
+#Diffuse cytochemical reaction to glycogen is observed in the study:
++ mature neutrophils
+-eosinophils, basophils
+-lymphocytes
+-monocytes
+#A granular cytochemical reaction to glycogen is observed in the study of:
+-monocytes
++lymphocytes
+-stab neutrophils
+-eosinophils
+#Cytochemical reaction to nonspecific esterase is especially pronounced in the study:
+- mature neutrophils
+-lymphocytes
++ monocytes
+-myeloblasts
+#Cytochemical reaction to peroxidase was negative during examination:
+- mature neutrophils
+- metamyelocytes
++lymphocytes
+-myelocytes
+#Not typical for thalassemia:
++ violation of the structure of hemoglobin
+- violation of the synthesis of the ?-polypeptide chain of globin
+- violation of the synthesis of the ?-polypeptide chain of globin
+-imbalance in the synthesis of polypeptide chains
+#In violation of the activity of G-6-PD of erythrocytes, it is not typical:
+-accumulation of hydrogen peroxide in red blood cells
+-decrease in reduced glutathione
++ increase in NADP
+-decrease in NADP
+#For hereditary spherocytosis is not typical:
+- violation of the structure of the erythrocyte membrane
+- impaired stabilization of the erythrocyte membrane
+- intracellular hemolysis of erythrocytes
++ intravascular hemolysis of erythrocytes
+#For hereditary hemolytic anemia with a violation of the structure of hemoglobin is not typical:
+- the presence of pathological S-hemoglobin
+- polymerization of pathological hemoglobin with a decrease in oxygen concentration
++increased fraction of fetal hemoglobin
+-the presence of the phenomenon of "sickle cell"
+#For hereditary hemolytic anemia with impaired G-6-PD activity, the following is not typical:
+-presence of Heinz bodies in erythrocytes
+-the presence of "bitten" erythrocytes
+-reticulocytosis
++ stomatocytosis
+#Thalassemia refers to:
+- to hyperchromic, macrocytic anemias
+- to normochromic, normocytic anemias
++ to hypochromic microcytic anemias
+- hyporegenerative anemia
+#For prelatent iron deficiency is not typical:
++ decrease in hemoglobin concentration
+-decrease in the amount of ferritin in the blood serum
+-decrease in the number of siderocytes
+-positive desferal test
+#Latent iron deficiency is characterized by everything except:
+-decrease in serum iron levels
+-increasing the OZhSS
++ decrease in the concentration of hemoglobin and the number of red blood cells
+-decrease in the saturation coefficient of transferrin with iron
+# Not typical for thalassemia major:
+- Significant increase in fetal hemoglobin fraction
+-increased fraction of hemoglobin A2
+-decreased hemoglobin A fraction
++ Decreased fraction of fetal hemoglobin
+#Minkowski-Shoffard disease is not typical for:
+- poikilocytosis due to spherocytes
++ increase in the average volume of erythrocytes
+-decrease in erythrocyte diameter
+-increase in erythrocyte thickness
+#Anisocytosis is:
+-different intensity of staining of individual erythrocytes
++ changes in the size of erythrocytes
+-change in the shape of erythrocytes
+- presence of inclusions in erythrocytes
+#The main functions of platelets include all except:
+-angiotrophic
++ participation in lipid synthesis
+-adhesive
+-aggregation
+#The mature cells of the erythroid line include:
+-reticulocytes
++erythrocytes
+- basophilic normoblasts
+-erythrokaryocytes
+#Poikilocytosis is:
+-change in the size of erythrocytes
+-different intensity of staining of individual erythrocytes
++change in the shape of erythrocytes*
+-the presence of inclusions in the cells
+#Anisochromia is:
+-changing the shape of cells
+-change in the size of erythrocytes
++ different staining intensity of individual erythrocytes
+-the presence of inclusions in erythrocytes
+#Polychromatophilia is:
+-different intensity of staining of individual erythrocytes
++ qualitative changes in the color of erythrocytes in a smear
+-the presence of inclusions in erythrocytes
+-change in the shape of erythrocytes
+#Joli’s bodies are:
+- remains of the nuclear membrane
++ remnants of nuclear matter
+-remains of organelles
+- fragments of hemoglobin chains
+#Kebot rings are:
++ remnants of the nuclear envelope
+-remains of organelles
+-ferritin granules
+- hemosiderin granules
+#Heinz bodies are:
+- hemosiderin granules
+-remains of organelles
++aggregates of oxidized hemoglobin
+- the remains of the nuclear substance
+#Blasts are:
++ normoblasts containing granules of ferritin, hemosiderin
+- normoblasts containing remnants of the nuclear substance
+- erythrocytes with inclusions of non-hemoglobin iron
+-erythrocytes containing basophilic puncture
+#Reticulocytes contain:
+- remains of the nuclear membrane
+- the remains of the nuclear substance
++ basophilic reticular substance
+- basophilic granularity
+#Degenerative changes in neutrophils do not include:
+- toxogenic granularity of neutrophils
+-vacuolizationnuclei
+-Dele bodies
++ Heinz bodies
+#The main function of B-lymphocytes is:
+-participation in lipid synthesis
+-regulation of microcirculation
++ synthesis of immunoglobulins
+- regulation of tissue trophism
+#The main function of neutrophils is:
+- synthesis of immunoglobulins
+- regulation of tissue trophism
+-regulation of microcirculation
++ phagocytosis
+# Hereditary erythrocytosis does not include:
+-erythrocytosis due to changes in the oxygen transport function of hemoglobin
+-erythrocytosis due to increased production of erythropoietin
++erythremia
+-erythrocytosis due to impaired bone marrow hematopoiesis
+#The ability of erythrocytes to deform is determined by everything except:
+- cytoplasmic viscosity
++ the process of aggregation-disaggregation of erythrocytes
+-viscosity-elastic properties of the membrane
+- the ratio of cell area to volume
+#When the synthesis of hemoglobin in the erythrocyte is disturbed, the following changes are observed, e
+xcept:
+-decreased hemoglobin content
+- hypochromia
+- increased porphyrin
++ hyperchromia
+#Acanthocytes are:
+sickle-shaped erythrocytes
++ erythrocytes without an enlightenment zone, with spikes of various sizes
+- erythrocytes in the shape of a crescent
+-drop-shaped erythrocytes
+#Drepanocytes are:
++ crescent-shaped red blood cells
+-drop-shaped erythrocytes
+-erythrocytes without an enlightenment zone, with spikes of different sizes
+- erythrocytes with enlightenment in the form of a stoma
+#Dacryocytes are:
+- erythrocytes in the shape of a crescent
+sickle-shaped erythrocytes
++ teardrop erythrocytes
+- erythrocytes in the form of oat grains
+#The functions of erythrocytes do not include:
+- participation in gas exchange
+-participation in immune processes
++ synthesis of immunoglobulins
+-participation in hemostasis
+#The direct method for determining blood groups is:
+-determination using isohemagglutinating sera and standard erythrocytes
+-determination using standard erythrocytes
++ determination using isohemagglutinating sera
+-determination with a 33% solution of polyglucin
+#The cross method for determining blood groups is:
++ determination using isohemagglutinating sera and standard erythrocytes
+-determination with a 33% solution of polyglucin
+-determination using isohemagglutinating sera
+-determination using standard erythrocytes
+#It is not typical for erythrocyte antigens:
+- maintaining the structure of erythrocytes
+-participation in the adhesion of various molecules
++ participation in gas exchange
+-participation in cell metabolism
+#The immunogenicity of antigens is:
+-in the ability to induce the production of cytokines
+-in the ability to be receptors for bacteria, viruses, parasites
++ in the ability to induce the production of antibodies
+- in the ability to participate in the adhesion of various molecules
+#For 0 blood group is typical:
+- the presence of antigen A on erythrocytes, in serum - anti-B antibodies
+- the presence of antigen B on erythrocytes, in serum - anti-A antibodies
++ absence of A and B antigens on erythrocytes, presence of anti-A and anti-B antibodies in serum
+- the presence of antigens A and B on erythrocytes, the absence of antibodies in serum
+#A blood type is characterized by:
++ the presence of antigen A on erythrocytes, in serum - anti-B antibodies
+- the presence of antigen B on erythrocytes, in serum - anti-A antibodies
+-absence of A and B antigens on erythrocytes, the presence of anti-A and anti-B antibodies in serum
+- the presence of antigens A and B on erythrocytes, the absence of antibodies in serum
+#B blood type is characterized by:
+- the presence of antigen A on erythrocytes, in serum - anti-B antibodies
++ the presence of antigen B on erythrocytes, in serum - anti-A antibodies
+-absence of A and B antigens on erythrocytes, the presence of anti-A and anti-B antibodies in serum
+- the presence of antigens A and B on erythrocytes, the absence of antibodies in serum
+#For AB blood type is typical:
+- the presence of antigen A on erythrocytes, in serum - anti-B antibodies
+- the presence of antigen B on erythrocytes, in serum - anti-A antibodies
+-absence of A and B antigens on erythrocytes, the presence of anti-A and anti-B antibodies in serum
++ the presence of antigens A and B on erythrocytes, the absence of antibodies in serum
+#The clinical significance of antigens is determined by:
+-the ability of antigens to be inherited
+- the ability to participate in the adhesion of various molecules
++ their high immunogenicity, the ability of alloantibodies to these antigens to cause the destruction of red
+blood cells
+- the ability to maintain the structure of the erythrocyte membrane
+#The clinical significance of antibodies is determined by:
+- resistance to heat
+- the ability to undergo inactivation at 56?
+- the ability to show their properties at temperatures from 15 to 25?
++ the ability to cause destruction of erythrocytes carrying the corresponding antigen on the surface
+#Rh-affiliation is determined by the presence / absence on erythrocytes:
+-antigen A
+-antigen B
++ antigen D
+-antigens A and B
+#Indirect Coombs test allows you to determine:
+-antibodies or complement components fixed on the surface of erythrocytes
+-antigens on the surface of red blood cells
++anti-erythrocyte antibodies in blood serum
+-antibodies and antigens on the surface of red blood cells
+#Direct Coombs test allows you to determine:
++antibodies or complement components fixed on the surface of erythrocytes
+-antigens on the surface of red blood cells
+-antierythrocytenye antibodies in blood serum
+-antibodies and antigens on the surface of red blood cells
+#Specific agglutination is:
+- interaction of erythrocytes with antibodies, the specificity of which does not correspond to the antigens of
+erythrocytes
+- agglutination reaction of the studied erythrocytes with the individual’s own serum
+- the ability of erythrocytes to agglutinate with all serum samples, regardless of their AB0 affiliation
++ interaction of erythrocytes with antibodies, the specificity of which corresponds to the antigen present on
+erythrocytes
+#Nonspecific agglutination is:
++ interaction of erythrocytes with antibodies, the specificity of which does not correspond to the antigens o
+f erythrocytes
+- agglutination reaction of the studied erythrocytes with the individual’s own serum
+- the ability of erythrocytes to agglutinate with all serum samples, regardless of their AB0 affiliation
+- interaction of erythrocytes with antibodies, the specificity of which corresponds to the antigen present on
+erythrocytes
+#Counting the number of reticulocytes is carried out as follows:
+- per 100 leukocytes
+- the number of reticulocytes in the field of view
++ per 1000 erythrocytes
+-per 10,000 erythrocytes
+#The platelet count is carried out as follows:
+- per 100 leukocytes
+- the number of platelets in the field of view
++ per 1000 erythrocytes
+-per 10,000 erythrocytes
+#The number of shadows of Gumprecht as a result is indicated:
+- per 100 leukocytes
++ approximately in the field of view
+- per 1000 erythrocytes
+-per 10,000 erythrocytes
+#Shadows of Gumprecht are:
+- the remains of the nuclear substance
++cells destroyed during smear preparation
+- the remains of the nuclear substance
+- basophilic reticular substance
+#Pathogenetic mechanisms of development of reactive (relative) erythrocytosis do not include:
+-hypoxia
++ increased production of leukemic erythrocytes
+-hemoconcentration
+-active physiological erythropoiesis
+- overproduction of erythropoietin
+#Increased osmotic resistance of erythrocytes is observed:
+- with hereditary spherocytosis
++ with thalassemia
+- with hereditary ovalocytosis
+- with hereditary stomatocytosis
+# Decrease in osmotic resistance is not observed:
+- with hereditary spherocytosis
++ with thalassemia
+- with hereditary ovalocytosis
+- with hereditary stomatocytosis
+#Price-Jones curve reflects:
+- distribution of erythrocytes in shape
+-number and distribution of platelets by volume
++number and distribution of erythrocytes by diameter
+-number and distribution of leukocytes by volume
+#A decrease in the number of megakaryocytes is observed:
+- in polycythemia vera
+- with cirrhosis of the liver
++ with aplastic anemia +
+- after blood loss
+#An increase in the number of megakaryocytes is observed:
+- with acute leukemia
+- with aplastic anemia
+- with radiation sickness
++ with true polycythemia
+#Bone marrow leuko-erythroblastic index reflects:
+- the ratio of hemoglobin-containing normoblasts to all cells of the erythrocyte series
+- the ratio of young forms of neutrophils to more mature ones
++ the ratio of the sum of leukocyte cells to the sum of erythrocyte cells
+-number of megakaryocytes and their functional activity
+#Bone marrow neutrophil index reflects:
+- the ratio of hemoglobin-containing normoblasts to all cells of the erythrocyte series
++ the ratio of young forms of neutrophils to more mature forms
+- the ratio of the sum of leukocyte cells to the sum of erythrocyte cells
+-number of megakaryocytes and their functional activity
+#Bone marrow erythrocyte maturation index reflects:
++ the ratio of hemoglobin-containing normoblasts to all cells of the erythrocyte series
+- the ratio of young forms of neutrophils to more mature forms
+- the ratio of the sum of leukocyte cells to the sum of erythrocyte cells
+-number of megakaryocytes and their functional activity
+#Pelger’s anomaly is:
+- hypersegmentation of neutrophil nuclei
+-secondary hyposegmentation of neutrophil nuclei
++ hyposegmentation of neutrophil nuclei and coarse, pyknotic chromatin structure
+-hypogranulation of the cytoplasm of neutrophils
+#Nicturia is:
+- frequent urination at night
+-bed-wetting
++ the predominance of nighttime diuresis over daytime
+-increased urine output during the day
+-painful urination
+#What method can be used to determine phosphates in urine?
++ by adding acid to the precipitate
+- adding alkali to the precipitate
+- heating
+- mixing with ether
+- adding distilled water
+#What disease is characterized by a high relative density of urine:
+- chronic glomerulonephritis
+-pyelonephritis
++diabetes
+- diabetes insipidus
+- shriveled kidney
+#For what diseasevaniya is characterized by hemoglobinuria?
+- kidney stone disease
+-cystitis
++ hemolytic kidney
+- parenchymal jaundice
+- acute glomerulonephritis
+#What disease is characterized by severe bilirubinuria?
++ mechanical jaundice
+- hemolytic jaundice
+- kidney stone disease
+- acute glomerulonephritis
+-cystitis
+#What disease often causes large amounts of amorphous phosphates and tripelphosphates to be found i
+n the urine?
+- with hemolytic kidney
++ with cystitis
+- with nephrotic syndrome
+- with acute glomerulonephritis
+- congestive kidney
+#Bacteriuria is characteristic:
+- for acute glomerulonephritis
++ for acute pyelonephritis
+-for nephrotic syndrome
+-for kidney cancer
+-for kidney disease
+#Turbidity of urine caused by the presence of formed elements can be removed by:
+- adding acid
++ centrifugation
+- adding alkali
+-heating
+- adding water
+#What is the requirement for urine when determining protein?
+-urine must be alkaline
++ the reaction of urine should be acidic
+-reaction of urine does not matter
+-no glucose
+- there should be no uniform elements
+#At what temperature will the Bence-Jones protein fall out?
+-10-20 C
+-20-30 C
+-30-40 C
+-45-55 C
++ over 60 C
+#When seminal fluid enters the urine, the following is determined:
+-whey protein
++ albumose
+-amyloid
+- Bence-Jones protein
+#The presence of ketone bodies in the urine in diabetes characterizes:
++ disease severity
+- duration of illness
+-degree of kidney damage
+-effectiveness of therapy
+#Staining preparations prepared from urine sediment, according to the Ziehl-Neelsen method, is performe
+d if:
+- kidney tumor
+-inflammation of the bladder
++ for kidney tuberculosis
+- for urolithiasis
+- for diabetes
+#What is the name of the unified method for determining pepsin:
+- Matta
+-Pyatnitsky
++ Tugolukova
+-Reberga
+#What disease is characterized by increased secretory activity of the stomach?
+-for stomach cancer
++ for peptic ulcer with localization of the ulcer in the duodenum 12
+-for chronic atrophic gastritis
+-for pyloric stenosis
+- for polyposis of the stomach
+#In what disease is there a significant increase in gastric contents in a serving on an empty stomach?
+- with stomach cancer with localization in the cardia
++ with cicatricial-ulcerative narrowing of the pylorus
+- with functional achlorhydria
+- with gastric ulcer
+#What method of determining the acidity of gastric juice is widely used?
+-titration with a 0.01 N NaOH solution in the presence of an indicator
++ titration with 0.1 N NaOH solution in the presence of an indicator
+-titration with 0.1 N NaOH solution
+-titration with 1.0 N NaOH solution
+-titration with 0.1 N HCl solution
+#The most powerful irritant of gastric secretion is:
+-adrenalin
+-atropine
++ histamine
+-pilocarpine
+-caffeine
+#How can you determine the concentration of free hydrochloric acid in gastric juice?
++ titration with 0.1 N NaOH solution with dimethylamidoazobenzene
+-titration with 0.1 N NaOH solution with phenolphthalein
+-determination of 0.1 N solution of NaCl with dimethylamidoazobenzene
+- determination of the pH of gastric contents
+-titration with 0.1 N NaOH solution with sodium alizarinsulfonic acid
+#What indicator is used to determine bound hydrochloric acid?
+-phenolphthalein
+-dimethylamidoazobenzene
++ alizarinsulfonic acid sodium
+- iron sesquichloride solution
+- a solution of bromide blue
+#What shell is the secretory function of the stomach:
+- serous
+-muscular
++ mucous
+- submucosal
+#Which of the indicators corresponds to the normal total acidity of gastric contents?
+1) 10-20 mmol/l
+2) 20-40 mmol/l
+3) 40-60 mmol/l*
+4) 60-90 mmol/l 5) 80-100 mmol/l
+#When is it necessary to perform microscopic studies of bile after sampling?
++ after 5-10 minutes
+-in 30 minutes
+-After 1 hour
+-In 2 hours
+#How can bile be preserved for 1-2 hours if immediate microscopic examination is impossible?
+- place in refrigerator
+- put in a warm water bath
+- put in a thermostat
++ add 10% formalin
+- add saline
+#At what pathology is stercobilin absent in the feces?
+- with cirrhosis of the liver
++ with gallstone disease
+- with myocardial infarction
+- with hemolytic anemia
+#What changes in bile are observed in chronic cholecystitis?
+-blood clots, leukocytes
+-crystals of cholesterol, calcium bilirubinate
+-large amount of bile
++ flakes, leukocytes, desquamated epithelium
+#Acid reaction of feces is observed:
+-with predominant protein nutrition
++ with increased fermentation processes
+- with the activation of putrefactive flora
+- with constipation
+- with pancreatic insufficiency
+#Which of the reagents makes it possible to differentiate between drops and clumps of fatty acids, soaps
+and neutralfat?
++ Lugol’s solution
+-Sudan III
+-1% methylene blue solution
+-glycerol
+#Stercobilin is absent in feces:
+- with ulcerative colitis
++ with obstruction of the common bile duct
+-in case of pancreatic insufficiency
+- with severe fermentation processes
+- with gastritis
+#At what pathology are large amounts of digestible fiber, starch and iodophilic flora found in feces?
+- putrid dyspepsia
+-pancreatitis
++ fermentative dyspepsia
+- colitis with constipation
+# Steatorrhea is:
+-the presence in the stool of undigested elements of meat food
++presence of fat in feces
+-the presence of mucus in the feces
+-changes in stool consistency
+-presence of starch in feces
+# Increased odor of feces when loaded with meat food is due to:
+- with a predominance of fermentation processes
++ with a predominance of putrefactive processes
+- with impaired liver function
+- with inflammation
+#Creatorea is:
+-presence of fat in feces
++presence of undigested elements of meat food in the feces
+-the presence of mucus in the feces
+-changes in stool consistency
+-presence of starch in feces
+#Microscopically visible admixture of mucus on the surface of the feces indicates:
+- violation of the processes of digestion in the stomach
+- a disease of the pancreas
+-inflammation in the small intestine
++ about the inflammatory process in the lower parts of the large intestine
+# The presence of "fresh" blood in the stool indicates bleeding:
+- from the stomach
+- from the small intestine
+- from the esophagus
++ from the rectum
+-from duodenum 12
+#What is the color of fat drops when stained with Sudan III?
+- colorless
++ glowing orange
+-brown
+- blue
+-black
+#In what pathology is intense staining of bile observed?
+- with cholecystitis
++ with hemolytic anemia
+- with gallstone disease
+- with duodenal ulcer
+- with pericholecystitis
+#Erythrocytes and leukocytes in feces are found during an inflammatory process:
+-in the small intestine
++ in the large intestine
+-in the esophagus
+-in the stomach
+#For the diagnosis of amylorrhea, you should prepare:
+- native, unstained preparation
+-native preparation stained with Sudan III
++ native preparation stained with Lugol’s solution
+- native preparation with glycerin
+-preparation stained with Nile blue sulfate
+#The minimum number of fields of view of a thick blood drop that must be viewed in a standard blood test
+for malaria is:
+-10
+-50
++100
+-200
+-300
+#For wiping the glass of blood smears (drops) after a malaria test for later storage, it is better to use:
++Ether
+-xylene
+-ethanol
+- immersion oil
+- water with detergent
+#Blood from a patient for testing for malaria should be taken:
+- during chills
+- during fever
+- during sweating
+- in the interictal period
++ at any time, regardless of the attack
+#The reaction of water for the preparation of paint according to Romanovsky when staining smears and th
+ick drops for malaria should be:
+-6.6
+-6.8
++7.0
+-7.6
+-8.4
+#When staining an unfixed thick blood drop, hemolysis did not occur, the preparation turned out to be uns
+uitable for research. Specify the reason why hemolysis did not occur:
++ blood was taken from a finger, on the skin of which there were drops of alcohol
+-preparation was dried at room temperature
+- the drop was very thick
+- the drop was prepared in compliance with the rules
+#What should be done with the thick blood drops prepared a few days ago delivered to the laboratory?
+- fix a thick drop before painting
+- stain the preparations with a solution of paint according to Romanovsky
++ preliminarily pour distilled water on the preparation for 10-15 minutes
+- pre-pour saline solution on the preparation for 10-15 minutes
+#Which epithelial cells in sputum indicate incorrectly collected material?
+- columnar epithelium
+-cubic epithelium
++ stratified squamous epithelium
+- epithelioid
+-alveolar macrophages
+#At what disease do Kurshman’s spirals appear?
+- lung abscess
+- with tracheitis
++ with bronchial asthma
+- with bronchitis
+- with croupous pneumonia
+#What disease is characterized by the detection of Charcot-Leiden crystals in the sputum?
+-for lung abscess
+-for bronchiectasis
+-for croupous pneumonia
++ for bronchial asthma
+- for pulmonary tuberculosis
+#At what disease sputum has a mucous character?
++ with bronchial asthma
+- with pneumonia
+- with pulmonary tuberculosis
+- lung abscess
+- with bronchiectasis
+#What disease is characterized by eosinophilia in sputum?
+-for chronic bronchitis
++ for bronchial asthma
+- for pneumonia
+- for tuberculosis
+- for lung abscess
+#In what disease can the amount of sputum reach 1.5-2 liters per day?
+- with bronchial asthma
++ with lung abscess
+- with pulmonary edema
+- with croupous pneumonia
+- with acute bronchitis
+#Sputum with lung abscess:
+-homogeneous
++ two-layer
+- foamy
+- serous
+- mucous
+#Sputum with gangrene of the lungs:
+- mucous
+- multilayer
++ three-layer
+-homogeneous
+-two-layer
+#At what disease does a fetid smell of sputum appear:
++ with gangrene of the lung *
+- with lung cancer
+- lung abscess
+- with croupous pneumonia
+- with acute bronchite
+#The mucous membrane of the esophagus is normally represented by:
++ stratified squamous epithelium
+-multinuclear columnar epithelium
+-single cuboidal epithelium
+- transitional epithelium
+- single-layer cylindrical
+#The tissue from which cancer develops is:
+- connecting
+- muscular
++epithelial
+- nervous
+- bone
+#For gastric tumors, the most rational way to obtain material is:
++Gastroscopy
+-gastric lavage
+- intake of gastric juice
+- puncture of the stomach
+#In what kind of exudative pleurisy does the hemorrhagic nature of the effusion occur?
+-cardiac
+- parapneumonic
++ oncological
+- tuberculosis
+-uremic
+#What blood cells predominate in pleural effusion in acute inflammatory processes?
+-lymphocytes
+-eosinophils
++ neutrophils
+-erythrocytes
+-monocytes
+#At what disease is hypereosinophilia of the blood observed?
+- with chronic bronchitis
+- with pulmonary tuberculosis
+- with acute pneumonia
++ with bronchial asthma
+- lung abscess
+#In what disease is hemorrhagic pleurisy most common?
+- with rheumatism
++ with metastases of malignant tumors in the pleura
+- with pneumonia
+- with an abscess
+- with syphilis
+#Cytosis of the cerebrospinal fluid of a healthy adult is:
+-no cells
++0-5?106/l
+-10?106/l
+-20?106/l
+-30?106/l
+#Protein 0.35 g/l, cytosis 3.2?106/l in cerebrospinal fluid reflect:
+- serous inflammation
+-purulent inflammation
+-hemorrhage
+-a brain tumor
++ normal fluid composition
+#Gonococci differentiate in stained smears:
+-1% methylene blue solution
+-1% eosin solution
+-0.5% brilliant green solution
++ according to Gram
+-according to Romanovsky
+# Violation of the ratio of protein fractions in the cerebrospinal fluid is denoted by the term:
+- hyperglucoarchy
++ dysproteinarchy
+-hypochloremia
+-dysproteinemia
+- dyspotheinosis
+#Pyospermia means the presence in the ejaculate of:
+- a large number of red blood cells
++ a large number of neutrophils
+- spermine crystals
+-macrophages
+- a large number of lymphocytes
+#Change in the morphology of spermatozoa is denoted by the term:
+-necrozoospermia
+-asthenozoospermia
+-polyspermy
+- oligospermia
++ teratozoospermia
+# "Key" cell is:
+epithelial cell with intracytoplasmic inclusions
+epithelial cell covered with rod flora
++ squamous epithelial cell covered with gram-variable coccobacillary microorganisms
+- squamous epithelial cell partially covered with coccal flora
+- squamous epithelial cell covered with diplococci
+#What kidney function can be judged on the basis of the Zimnitsky test?
+- maintenance of electrolyte metabolism
+- maintenance of water exchange
++ concentration
+-secretory
+- excretory
+#At what kind of jaundice is the greatest amount of urobilinogen (urobilin) bodies found in the urine?
+-parenchymal
++ hemolytic
+- mechanical
+- obstructive
+#What is the glucose content in the urine if the blood glucose level is known to be 3.3 mmol/l?
++ complete absence of glucose in the urine
+-traces of glucose in urine
+-small amount of glucose in the urine
+-high glucose in urine
+#The content of what substance in urine significantly increases the density of urine?
+-bilirubin
++glucose
+- uric acid
+-mucus
+-acetone
+#In what disease can idiuresis be 6 liters?
+- with chronic glomerulonephritis
+- with acute pyelonephritis
+- with kidney disease
++ with diabetes
+-wrinkled kidney
+#For what disease is urine the color of meat slops typical?
+-for hemolytic kidney
++for acute glomerulonephritis
+-for parenchymal jaundice
+-for congestive kidney
+- for obstructive jaundice
+#What is the daily protein loss in a patient with a daily urine output of 500 ml and a protein concentration
+of 15 g/l?
+-5.0 g
++7.5 g
+-10.0 g
+-15.0 g
+-20.0 g
+#What fluctuation of the relative density of urine is normal during the day?
+-1011-1013
++1006-1020
+-1004-1010
+-1010-1016
+#What is the character of sediment in acute glomerulonephritis?
+- leukocyturia
+-hematuria + leukocyturia
+- hematuria + cylindruria
+-macrohematuria
++ hematuria + proteinuria + cylindruria
+#What is the number of erythrocytes in a normal urinary sediment according to Nechiporenko?
+-5.0?106/l
+-4.5?106/l
+-2.5?106/l
++1.0?106/l
+-10.0?106/l
+#What symptom is typical for acute glomerulonephritis?
+- lower back pain
+- leukocyturia
++ hematuria
+-oxalaturia
+-bacteriuria
+# Leading clinical and laboratory symptom of nephrotic syndrome:
+-dropsy cavities
+- skin pallor
++ severe proteinuria
+-hypoproteinemia
+-dysproteinemia
+#Wax cylinders occur:
+- with acute glomerulonephritis
+- with acute pyelonephritis
+- with kidney disease
+- with cystitis
++ with amyloidosis of the kidney
+#At what disease is Bence-Jones protein found in the urine?
+- kidney amyloidosis
+- with chronic glomerulonephritis
++for multiple myeloma+
+- with tuberculosis of the kidneys
+- with acute glomerulonephritis
+#Characteristic symptom of diabetes:
++Hyperglycemia
+- hemoglobinuria
+-bilirubinuria
+-urobilinuria
+-azotemia
+#What is the normal number of leukocytes in the urinary sediment according to Nechiporenko?
+-10.0?106/l
+-8.0?106/l
+-20.0?106/l
++4.0?106/l
+-30.0?106/l
+#Sternheimer-Malbin cells are found in urine:
+- with chronicEscom pyelonephritis
++ in acute glomerulonephritis
+- with hypernephroma
+- with chronic glomerulonephritis
+- with diabetic nephrosclerosis
+#In what disease is massive proteinuria more common?
+- with acute glomerulonephritis
+- with chronic pyelonephritis
+- with hypernephroma
++ in chronic glomerulonephritis
+- with diabetic nephrosclerosis
+#In what disease is histamine-refractory achlorgia most common?
+- with chronic superficial gastritis
++ in chronic gastritis with widespread atrophy of the mucous membrane
+- with stomach cancer
+- with functional stomach disease
+- with cicatricial-ulcerative narrowing of the pylorus
+#Under what condition is trypsinogen converted to trypsin?
+- under the influence of hydrochloric acid of gastric juice
+- under the influence of bile
++ upon contact with duodenal mucosa
+- under the influence of gastric enzymes
+- influenced by fatty acids
+#Under the influence of what factor are insoluble fatty acids converted into soluble ones in the digestive tr
+act?
+- pancreatic juice lipases
+-gastric lipases
++ bile acids
+- hydrochloric acid of gastric juice
+-pepsin
+#Debit-hour of free acid is:
++ the amount of hydrochloric acid in mg excreted by the stomach in one hour
+-amount of free hydrochloric acid in gastric juice
+- deficiency of hydrochloric acid, calculated for a 1-hour study
+-concentration of hydrochloric acid in gastric juice obtained within an hour
+- amount of hydrochloric acid obtained on an empty stomach
+# Hydrochloric acid deficiency is:
+- the difference between the indicators of gastric secretion in this patient compared with the norm
+-lack of hydrochloric acid obtained during titration
++ the amount of hydrochloric acid that must be added to the gastric contents that do not have free hydroc
+hloric acid in order to have a qualitative reaction to it
+-no free hydrochloric acid
+-increase in bound hydrochloric acid
+#Which of the methods allows you to trace the immediate reaction of the stomach to the administered me
+dicinal substance?
+- titration with color indicators
+- ion exchange resins
++ electrometric measurement of gastric pH using a probe
+- determination of uropepsin
+-colorimetric method for determining acidity
+#The introduction of what stimulus allows you to immediately get pure gastric juice?
+- alcoholic according to Erman
+- bread
+- cabbage according to Leporsky
++ histamine subcutaneously
+- meat broth
+#What is the most physiological irritant of gastric secretion used in the fractional method?
+-alcoholic
+- caffeine
+- histamine subcutaneously
+-insulin subcutaneously
++ cabbage broth
+# Cells involved in the production of the main components of gastric juice:
+- parietal (parietal)
+-main
+mucocytes (additional cells)
+-cells of the integumentary pit epithelium
++ main, parietal, mucocytes
+#What disease is characterized by steatorrhea?
+-for proctitis
+-for gastritis
+- for intestinal dysbacteriosis
++for chronic pancreatitis
+#What disease is characterized by black feces (melena)?
+-for ulcerative colitis
++for stomach bleeding
+- for anal fissures
+-for hemorrhoids
+#Mural digestion occurs:
+-in the large intestine
+-in the stomach
++in the small intestine
+-in the pancreas
+#The absolute indicator of gastric secretion is:
+- hourly secretion tension
+- debit-hour of hydrochloric acid
+-debit-hour of hydrogen ions
++ flow rate of hydrochloric acid, hydrogen ions and pepsin
+#Which of the methods for studying gastric secretion is indicated for achlorhydria?
+- determination of pepsin
+- determination of uropepsin
+- submaximal histamine test
++ maximum histamine test
+#In which of the diseases in a serving on an empty stomach is a significant amount of free hydrochloric ac
+id found?
+- with stomach cancer
++ with duodenal ulcer
+- with gastritis with normal secretory function
+- with pyloric stenosis
+#What disease causes bile pleiochromia?
+- with chronic cholecystitis
+- with cirrhosis of the liver
++ with hemolytic anemia
+- with giardiasis
+#At what pathology is bilirubin found in the feces?
+- with duodenitis
+- with pancreatitis
++ in acute enteritis
+- with ulcerative colitis
+#Which disease is more often accompanied by anemia?
+- chronic colitis
+- duodenal ulcer without exacerbation
++ chronic enterocolitis
+-chronic pancreatitis
+#What feces are typical for ulcerative colitis?
+-melena
+- sheep feces
+- steatorrhea
++ raspberry jelly
+- frothy stool
+# "Amiloreya" is:
+-presence of fat in feces
+- the presence of muscle fibers
++presence of starch in feces*
+-the presence of mucus in the feces
+-the presence of bilirubin in the feces
+#What reaction of feces is noted in violation of the absorption of proteins in the intestine?
+-sour
+- sharply sour
+-neutral
++ sharply alkaline
+- slightly acidic
+#In what disease is ointment consistency observedan ounce of feces?
+- with atrophic gastritis
+- with pancreatitis
++ with fermentative dyspepsia
+- with dysentery
+- with putrefactive dyspepsia
+#Small, active, live larvae in bile sediment are:
+- vegetative forms of lamblia
++ intestinal acne larvae
+- Ascaris larvae
+- Fasciola larvae
+-opisthorchia larvae
+#Kurshman’s spirals under a microscope look like:
+- helical aggregations of leukocytes
++ compacted, spiral formations of mucus
+-fibrinous fibers
+- crimped, shiny thin strands of elastic fibers
+- fibrous formations
+# In the sputum with bronchitis can not be detected:
+-erythrocytes
+-alveolar macrophages
++ coral-shaped elastic fibers
+- columnar epithelium
+#Characteristic morphological features of elastic fibers are:
+- spirally coiled bands of mucus
+-ability to be detected after sputum treatment with 80% alkali solution
++ shiny, tortuous, sharply refracting light formations, sometimes they are revealed collected in bundles, re
+peating the structure of the alveolar tissue
+- the ability to clear when adding a 30% solution of acetic acid
+- fibrin formations
+#What disease is characterized by bloody sputum?
+-for catarrh of the upper respiratory tract
+- for bronchopneumonia
+-for chronic bronchitis
++for bronchogenic lung cancer
+-for bronchial asthma
+#When lung tissue decays, crystals can be found in sputum, except for:
+-hematoidin
+-cholesterol
+-fatty acids
++Charcot Leiden
+- neutral fat
+#Malignant tumors are characterized by:
+-slow growth
+-expansive growth
++ infiltrating growth
+-structural similarity to normal tissue
+#The mucous membrane of the trachea and large bronchi is normally represented by:
+-single layered cuboidal epithelium
++ multinucleated columnar epithelium
+-stratified squamous epithelium
+- transitional epithelium
+-single-layered columnar epithelium
+#Morphological criteria for a benign tumor are:
+-proliferation
+- dedifferentiation
++ structural similarity to normal tissue
+-mitoses
+-polymorphism
+#What disease is characterized by the predominance of lymphocytes in the pleural effusion?
+- in pulmonary infarction
++ with pulmonary tuberculosis
+- with pneumonia
+- with uremia
+- with echinococcosis
+#In what disease is the level of glucose in the cerebrospinal fluid reduced?
+- with tetanus
+- brain injury
++ with meningitis
+- with encephalitis
+- with arachnoiditis
+#The relative density of CSF is reduced:
+- with inflammation of the meninges
+-in case of brain injury
++ with hydrocephalus
+- brain tumor
+#What change in the composition of cerebrospinal fluid is detected using the Nonne-Apelt reaction?
++ increase in the number of globulins
+-increased albumin levels
+-decrease in the amount of globulins
+-decrease in albumin levels
+- hyperproteinorachia
+#Smears for hormonal colpocytological examination are taken:
+- from the posterior fornix of the vagina
++ from the upper third of the posterolateral fornix of the vagina
+- from the lateral fornix of the vagina
+- from the cervical canal
+- from the urethra
+# Normally, the number of active spermatozoa in the ejaculate is:
+-10-20%
+-20-40%
++40-60%
+-60-80%
+-80-90%
+#Testosterone is formed:
+- in spermatogonia
+-in spermatids
+-in spermatocytes
++ in Leydig cells
+- in Sertoli cells
+#Decrease in sperm motility is denoted by the term:
+- oligospermia
+-necrozoospermia
+-polyspermy
+-azoospermia
++asthenozoospermia*
+#what characterizes the Zimnitsky test in chronic renal failure?
+-decreased amount of daily urine
++ low relative density in all proportions of urine
+-high relative density
+- uneven urine output throughout the day
+- a sharp fluctuation in the relative density
+#Which indicator more accurately characterizes the concentration ability of the kidneys?
+-relative density of urine
+- Folgart test
+- Zimnitsky’s test
++ osmotic concentration of urine, determined by cryoscopy
+- microscopy of urinary sediment
+#What is the average urine output under normal conditions?
+-0.2-0.5 l
+-0.5-1 l
++1-1.5 l
+-3-4 l
+#Indicator of what proteinuria is cylindruria syndrome?
++renal proteinuria
+-prerenal proteinuria
+-postrenal proteinuria
+- hepatic proteinuria
+#How can leukocytes be differentiated in urine sediment?
+- native smear method
+- breakdown of Kakovsky - Addis
+- stained with methylene blue
+-painted with Sudan III
++ staining of urine sediment according to Romanovsky - Giemsa
+#What is the condition of moderate polyuria?
+- with acute glomerulonephritis
+- with acute pyelonephritis
+- with nephrotic syndrome
++ with wrinkled kidney
+- with hemolytic kidney
+#Renal proteinuria is caused by:
++ impaired protein filtration and reabsorption
+- dysproteinemia
+- ingress of exudate with inflammation of the ureters
+- kidney stones
+#In diseases of the kidneys with a primary lesion of the glomeruli, it is noted:
+- violation of the concentration ability of the kidneys
++reduced filtration*
+- violation of reabsorption
+- violation of secretion
+#Erythrocyte casts are formed:
+- with renal leukocyturia
++ with renal erythrocyturia
+- with a stone in the ureter
+- with a stone in the bladder
+- all of the above are correct
+#ErythraCytic casts occur in the following diseases except:
+- renal infarction
+- acute nephritis
++ renal amyloidosis
+- kidney injury
+# Absence of urobilin in urine indicates:
+- hemolytic jaundice
++ for obstructive jaundice
+-for parenchymal jaundice during the prodrome
+- Gilbert’s disease
+- all diseases
+#The appearance of urobilin in the urine with obstructive jaundice may indicate:
++ about the restoration of the patency of the biliary tract
+- blockage of the bile ducts
+- damage to the gallbladder
+- restoration of liver functions
+- an increase in unconjugated bilirubin
+#The cause of renal glucosuria is a violation of:
++ reabsorption of glucose in the proximal tubules
+-filtration of glucose through an intact renal filter
+reabsorption of glucose in the distal tubules
+-secretion of glucose by the renal epithelium
+#What disease is characterized by pronounced urobilinogenuria (stercobilinuria)?
+- for subhepatic jaundice
++for hemolytic jaundice
+-for kidney disease
+-for kidney infarction
+-for chronic glomerulonephritis
+#At what disease is glomerular filtration always reduced?
+- with acute pyelonephritis
+- with chronic glomerulonephritis
++ in acute renal failure
+- kidney amyloidosis
+- with pyelitis
+#What substance enters the urine by secretion?
+-uric acid
++ammonia
+-glucose
+-calcium ions
+-protein
+#Alkaline reaction of urine happens:
+- with protein nutrition
+- when fasting
+- with a tumor of the bladder
++ with uremia
+- with fever
+#Name the clinical sign of gout:
+-hyperglycemia
++hyperuricemia
+-hypertension
+- hyperleukocytosis
+-bilirubinuria
+#In which part of the nephron does urine filtration occur?
+-in the proximal tubule
+-in the interstitium of the kidneys
++ in the glomerulus
+-in the loop of Henle
+- in the distal canal
+#What disease is characterized by oliguria?
+-for pyelonephritis
++for acute glomerulonephritis
+-for diabetes insipidus
+-for cystitis
+-for diabetes
+#What disease is characterized by combination of urobilinogenuria with bilirubinuria?
+- for obstructive jaundice
+-for hemolytic jaundice
++for parenchymal jaundice
+-for kidney infarction
+-for kidney disease
+#What is the main role of gastrin?
+-activates pancreatic enzymes
+-converts pepsinogen and pepsin in the stomach
++ Stimulates secretion of gastric juice
+-stimulates pancreatic secretion
+- stimulates the secretion of intestinal juice
+#What is the role of secretin in the process of digestion?
+- stimulates the secretion of intestinal juice
+-stimulates bile secretion
+-stimulates the secretion of gastric juice
++ Stimulates pancreatic secretion
+-converts pepsinogen to pepsin
+#In what disease is it determined by pH-metry during the whole study pH - 7.0-8.0?
+- with chronic superficial gastritis
++ with gastritis with glandular lesions (atrophic)
+- with functional achlorhydria
+- with gastric ulcer
+- with pyloric stenosis
+#In what disease is often determined debit-hour of hydrochloric acid in the I phase of secretion over 500
+mg (13.7 mmol/h)?
+- with gastritis with normal secretory function
+- with gastritis with moderate secretory insufficiency
++ with peptic ulcer with localization in the duodenum 12
+- with stomach cancer
+- with cicatricial-ulcerative narrowing of the pylorus
+#Debit-hour of free hydrochloric acid in basal secretion 4.0 mmol/h means:
++ normal secretion of free hydrochloric acid
+- high secretion of free hydrochloric acid
+-low secretion of free hydrochloric acid
+- sharply reduced secretion of free hydrochloric acid
+- sharply increased secretion of free hydrochloric acid
+#The electrometric method is used to determine the pH in the following part of the stomach:
+-in different departments
+-in the cardiac region
++ in the body and antrum
+-in the fundus of the stomach
+-in the antrum
+#For a severe course of duodenal ulcer, the following type of secretion is characteristic:
+-normal
+- hyper-reactive
+- hyporeactive
+-panhypochlorhydric
++panhyperchlorohydric
+#Indirect method for diagnosing infection of the gastric mucosa with Helicobacter pylori is:
+-histological
+-cytological
++urease test
+-bacteriological
+- all of the above methods
+#Direct method for detecting lesions of the gastric mucosa of Helicobacter pylori is:
+-urease test
+- breath test
++cytological
+- immunofermental
+- there is no correct answer
+#What method of duodenal sounding allows more accurate detection of gallbladder bile?
+- three-moment probing
+-multi-moment fractional sounding
++ chromatic duodenal sounding
+- gastroduodenal sounding
+#What irritant causes desquamation of the duodenal epithelium?
+-egg yolk
+-olive oil
++33% magnesium sulfate solution
+- glucose solution
+#In violation of what function of the gallbladder, there is a decrease in the relative density of bile in portion
+B?
+-secretory
++ concentration
+- contractile
+-hormonal
+- enzymatic
+#Name the intestinal tissue hormone:
++Cholecystopancreozymin
+-enterokinase
+-amylase
+-lipase
+-insulipase
+#The appearance in the feces of a large amount of neutral fat in the absence of fatty acidsand soap indica
+tes a deficiency:
+- gastric digestion
+- secretory function of the liver
++secretory function of the pancreas
+-intestinal digestion
+#In what cases is a large amount of digestible fiber, starch and iodophilic flora found in feces?
+- with putrefactive dyspepsia
+- with pancreatitis
+- with colitis with constipation
++ with fermentative dyspepsia
+- with dysentery
+#The reaction of feces becomes acidic:
+- with the activation of putrefactive flora
++ with increased fermentation processes in the intestines
+- with a decrease in the content of fatty acids in feces
+-with predominant protein nutrition
+- slow evacuation
+#Insoluble fatty acids are converted into soluble fatty acids in the gastrointestinal system by:
+- pancreatic secretion lipases
++ bile acids
+- hydrochloric acid of gastric juice
+-pepsin
+#What explains the appearance of layers of digestible fiber in the feces with achilia?
+- the absence of hydrochloric acid, which disrupts the digestion of fiber
++ the absence of hydrochloric acid, which prevents the loosening of fiber
+-acceleration of the evacuation of the food bolus from the stomach
+-difficulty in digestion of fiber, associated with throwing bile into the stomach
+- slowing down the evacuation of the food bolus
+#At what disease is acholic stool observed?
+- with atrophic gastritis
+- with dysentery
+- with chronic enteritis
+- in non-specific ulcerative colitis
++ in pancreatic head cancer
+#What explains the golden-yellow color of stool that occurs with prolonged ingestion of antibiotics?
+- impaired liver function
++ changes in intestinal flora
+-decrease in gastric acidity
+- fermentation processes in the intestines
+- putrid processes in the intestines
+#What disease causes serous sputum?
+- with acute bronchitis
+- with bronchial asthma
+- with pneumonia
+- with chronic bronchitis
++ with pulmonary edema
+#What disease is characterized by sputum with a high content of macrophages?
+- for acute bronchitis
++for chronic bronchitis (occupational etiology)
+-for lung abscess
+-for bronchial asthma
+-for pulmonary tuberculosis
+#The presence of elastic fibers in sputum indicates:
+- about the inflammatory process in the trachea and bronchi
+- about the inflammatory process in the lung tissue
++ about the breakdown of lung tissue
+about the proliferative process
+#What pulmonary pathology is characterized by the detection of hematoidin crystals, cholesterol, fatty aci
+d crystals and elastic fibers in the sputum?
+-for chronic bronchitis
+for pneumonia
++ for lung abscess
+- for pulmonary infarction
+- for acute bronchitis
+#In what disease is a significant amount of columnar epithelium found in sputum?
+- with bronchiectasis
++ in acute bronchitis
+- with croupous pneumonia
+- lung abscess
+- with pulmonary tuberculosis
+#In what disease can calcified elastic fibers be found in sputum?
+- with bronchial asthma
+- with chronic bronchitis
+- with pneumosclerosis with bronchiectasis
+- with croupous pneumonia
++ with pulmonary tuberculosis
+# With candidiasis of the lungs in sputum, you can find:
+- wide septate mycelium
+- thin twisted threads
++ pseudomycelium
+-chains of small spores
+-groups of small mosaic spores
+#Epithelioid cells in sputum can be found:
+- with croupous pneumonia
+- lung abscess
+- with chronic pneumonia
++ with pulmonary tuberculosis
+- with gangrene of the lungs
+#What combination can be attributed to protein-cell dissociation?
+- a large amount of protein and cellular elements
+- normal protein content and moderate pleocytosis
++ significant protein content and slight pleocytosis
+- low content of protein and cellular elements
+- slight pleocytosis and normal protein content
+#At what pathology is there a pronounced absolute protein-cell dissociation?
+- brain abscess
+- with a closed head injury
+- with hemorrhagic stroke
++ with brain tumors
+- with serous meningitis
+#In what pathology does hemorrhagic xanthochromia of cerebrospinal fluid occur?
++ with a stroke
+- with purulent meningitis
+- with serous meningitis
+- with cysticercosis
+- brain abscess
+#Congestive xanthochromia observed:
+- with purulent meningitis
+- with hemorrhagic stroke
+- with traumatic brain injury
++ brain tumor
+- with poliomyelitis
+#The most persistent hyperproteinarchy is found:
+- with hermorrhagic stroke
+- with a stroke, as a result of thrombosis of cerebral vessels
++ brain tumor
+- with bacterial meningitis
+#It is possible to distinguish dead spermatozoa from living ones in preparations stained with:
+-according to Gram
+-according to Romanovsky
++ according to Bloom
+- methylene blue
+- brilliant green
+#Decrease in fructose in semen leads to:
+-decreased sperm count
+-increased sperm count
++ decrease in sperm motility
+- to an increase in pathological forms of spermatozoa
+-to increase young forms of spermatozoa
+# Indicate the feature characteristic of the pseudomonad family:
++Aerobes*
+-positive Gram stain
+- the presence of spores
+-demanding to the nutrient medium
+#Which representative of gram-negative bacteria most often causesnosocomial infections?
+-R.mallei
++ P. aeruginosa
+-R. pseudomallei
+-R.picketti
+#Specify the most common method for typing pseudo-monads:
+-microscopic
+-biochemical
++pyocynotyping
+- detection of toxigenicity
+#Indicate the characteristic characteristic of the species P.aeruginosa:
+-positive Gram stain
++ presence of blue-green pigment
+- hemolytic activity
+-growth under anaerobic conditions
+#Indicate the optimal nutrient medium for the isolation of hemophils:
+- simple agar
+- sugar agar
++ chocolate agar
+-yolk-salt agar
+#Indicate the basic principle of microbiological diagnosis of diseases caused by Pseudomonas:
++isolation and study of pure culture
+- direct microscopy of pathological material
+-study of morphological and tinctorial features
+-spore study
+#Which of the signs is typical for pneumococci?
+-growth on simple media
++ bile lysability
+-urease activity
+-growth on media with bile
+#The study of what features underlies the division of streptococci into serological groups:
+- hemolytic activity
+- ability to grow on simple nutrient media
++identification of a specific group polysaccharide
+- tinctorial features
+#Representatives of which serological group of streptococci are less likely than others to cause human di
+sease?
+-A
+-IN
++C*
+-D
+#Which of the following signs is positive for group A streptococci:
+-growth on simple media
+-growth on media with bile
+-positive CAMP test
++positive bacitracin test
+#Indicate the main feature that determines the genus of staphylococci:
+- plasma coagulation
+- hemolytic activity
++ growth on media with 5 10% sodium chloride
+-sensitivity to methicillin
+#Specify the final stage of microbiological diagnosis of diseases caused by staphylococci:
+-study of enzymatic activity
+-study of morphological and tinctorial features
+-carrying out serological studies
++ definition of antibiogram
+#Indicate a sign that is not typical for the type of Staphylococcus aureus:
+-presence of thermostable DNase
++ growth in the form of R-colonies "lace handkerchiefs"
+- plasma coagulation
+-growth on JSA
+#Which method of creating anaerobic conditions is the most effective in cultivating anaerobes?
+-chemical
+-biological
+-combined
++use of special equipment
+#What nutrient medium is used in the cultivation of clostridia?
++ Kitta Tarozzi
+-AM
+-Levenshtein-Jensen
+-endo
+#What diseases are most often caused by representatives of the genus Clostridium:
++ wound complications
+- pleurisy
+- SARS
+- conjunctivitis
+#What type of clostridia form the most powerful toxin?
+-perfrigens
+-edematiens
+-septicum
++ botulinum
+#Which serotype of Clostridium perfrigens is more likely to cause anaerobic infection?
++A
+-IN
+-WITH
+-D
+#What method allows you to most clearly differentiate species of the genus Clostridium?
+-infection of experimental animals
++ neutralization of toxin by antitoxin
+-biochemical
+-study of cultural characteristics
+#What type of bacteroids is most important in human pathology?
++B.fragilis
+-B. vulgatus
+-B.distasonis
+-B.ureolyticus
+#What features allow you to differentiate between different types of bacteroids?
+-cultural properties
+-antigenic structure
++ biochemical properties and sensitivity to antibiotics
+-morphology
+#What group of microorganisms prevails in the composition of the resident microflora of the pharynx?
++ Streptococci
+-bacilli
+- enterobacteria
+- vibrios
+#What result of a bacteriological study of the contents of the small intestine is typical for a healthy body?
+-massive excretion of enterobacteria
+-absence of bacterial flora
+- isolation of salmonella
++ single representatives of enterobacteria
+#Indicate the group of microorganisms that are most often found in the lower third of the urethra:
+- Staphylococcus aureus
+- Pseudomonas aeruginosa
+- clostridia
++ coagulase-negative staphylococci
+#Indicate the location of the resident microflora of the eye:
++Conjunctiva
+-cornea
+- lacrimal sac
+-sclera
+#What microorganisms can most often be found on the surface of the conjunctiva of a healthy eye:
+- enterobacteria
+- Staphylococcus aureus
++ coagulase-negative staphylococci
+- streptococci
+#Indicate the underlying cause of diseases caused by opportunistic bacteria:
+-presence of microbial toxins
+-formation of pathogenicity enzymes by bacteria
++ weakening of the protective forces of the macroorganism
+-activation of the protective forces of the macroorganism
+#Indicate the main cause underlying the occurrence of diseases caused by bacteroids:
+-intrauterine infection
+-alimentary routes of infection
++ exhaustion of the body with subsequent injury
+- airborne infection
+#Indicate which microorganisms most often cause pneumonia:
+-viruses
++ streptococci
+- enterobacteria
+- Neisseria
+#Indicate which microorganisms most often cause diseases of the urinary system:
+-staphylococci
+-mycobacteria
++ conditionally pathogenic enterobacteria
+- Pseudomonas aeruginosa
+#Indicate what material is to be examined in case of pneumonia:
+- throat swabs
++ sputum
+-mucus from butthroat
+-saliva
+#Which of the materials is more appropriate to investigate to establish the bacterial etiology of inflammatio
+n of the gallbladder:
+-duodenal content
+- portion A of bile
++ portion In bile
+-portion With bile
+#When taking blood for sterility, the following principles should be observed, except:
+- blood sampling by specially trained personnel
+- sowing blood on a nutrient medium at the bedside of the patient
+- blood sampling taking into account the pharmacokinetics of the antibacterial drugs used
++ blood sampling without taking into account the rise in temperature in the patient
+#Indicate which medium is preferable to use for the isolation of group A streptococci from clinical material:
+- meat peptone agar
++ blood agar
+- sugar agar
+-yolk-salt agar
+#Picornavirus family includes:
++ polio virus
+Norwalk group viruses
+-cytomegaloviruses
+- Omsk hemorrhagic fever virus
+#The Calicivirus family includes:
+- hepatitis A virus
+- hepatitis E virus
+-parvovirus
++ Norwalk group virus
+#To isolate the polio virus use:
+-chicken embryos
++primary and continuous cell cultures
+- complex nutrient media
+- guinea pigs
+#The etiological agent of herpangina is:
+- herpes simplex virus type I
+- herpes simplex virus type II
++ Coxsackie A virus
+- Coxsackie B virus
+#Rotaviruses cause:
+- acute rhinitis
++ acute enteritis
+- chronic recurrent enteritis
+- serous meningitis
+# Flaviviruses include:
+- hepatitis A virus
+- hepatitis B virus
++ hepatitis C virus
+- hepatitis E virus
+#For what disease has no vaccine been developed?
+-rubella
+-yellow fever
++ hepatitis C
+- tick-borne encephalitis
+#Infection of a person with tick-borne encephalitis can occur:
+- transovarially
++ transmissive and alimentary
+- only transmissive
+- only alimentary
+#Which virus belongs to the family of orthomyxoviruses:
++Influenza
+- parainfluenza
+- causing atypical pneumonia
+- calling SSPE
+#Influenza viruses are represented by serotypes:
+-A and B
+-A and C
++A, B, C
+-A, B, C, D
+#The etiological agent of acute respiratory infections, pneumonia and gastroenteritis can be:
++Coronaviruses
+-rhabdoviruses
+-poxviruses
+- filoviruses
+#HIV is cultivated:
+- on monolayer cell cultures
++ in suspension cell cultures
+- on chick embryos
+-on laboratory animals
+#HIV has isolates:
+-A, B, C, D
+-A, B, C
+-A, D, M, N, O, P
++M, N, O
+#The screening method for determining HIV infection is:
++ELISA
+-immunoblotting
+-PCR
+-isolation of HIV
+#Children cannot be infected with HIV:
+- in utero
+- in childbirth
+-through breast milk
++ airborne
+#Which cells have CD4 receptors?
++T-lymphocytes and macrophages
+-only T-lymphocytes helpers
+-erythrocytes
+-enterocytes
+#In whom can adenoviruses cause oncogenic transformation?
+-in birds
++ in small rodents
+-in pets
+-in a person
+#How many types of human herpes virus?
+-2
+-4
++8
+-10
+#The group of ?-herpesviruses includes:
+-VEB
+-cytomegalovirus
++ chickenpox virus
+-human herpesvirus (type 6)
+#To isolate cytomegalovirus use:
+- suspension cell cultures
++monolayer cell cultures
+-chicken embryos
+- laboratory animals
+#Human herpes virus type 8 is associated with:
+- with sudden exanthema in infants
+- with chronic fatigue syndrome
++ with Kaposi’s sarcoma
+- with lymphoma
+#Name the avian flu variant:
++H5N1
+-H1N1
+-H1N5
+-H2N1
+#Does not belong to the Paramyxovirus family:
+- mumps virus
+-respiratory syncytial virus
++ influenza virus
+- measles virus
+#Which of the following combinations of markers can characterize an acute herpetic infection:
+-IgG, IgA
+-IgG, IgM, IgA
++DNA-PCR, IgM, IgA
+-DNA-PCR, IgG
+#What materials are most appropriate to use for the diagnosis of presumably herpetic encephalitis?
+-blood, scrapings from skin rashes, urine
+-blood
+-scrapings from skin rashes
++blood, cerebrospinal fluid
